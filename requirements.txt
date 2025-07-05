@@ -1,0 +1,22 @@
+# Core audio processing
+vosk==0.3.44
+openai-whisper==20231117
+sounddevice==0.4.6
+torch==2.2.2
+numpy==1.26.4
+tqdm==4.66.2
+
+# GUI
+customtkinter==5.2.2
+Pillow==10.2.0
+opencv-python-headless==4.9.0.80
+
+# Local AI & Control
+ollama==0.1.8
+python-rtmidi==1.5.8
+
+# Utilities
+loguru==0.7.2
+
+# NDI Video Output (Optional, requires manual SDK installation)
+# pysimplendi==0.1.3

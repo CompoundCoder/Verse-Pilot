@@ -1,0 +1,7 @@
+{
+    "require_approval": true,
+    "confidence_threshold": 0.6212121212121212,
+    "auto_show_after_delay": true,
+    "auto_show_delay_seconds": 30,
+    "sidebar_visible": true
+}

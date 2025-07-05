@@ -1,0 +1,759 @@
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2. All right, everyone, let's turn to Matthew 1, verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+[{"book": "Matthew", "chapter": 1, "verse": 3}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2. All right, everyone, let's turn to Matthew 1, verse 3. All right, everyone, let's turn to Habakkuk 5.7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+[{"book": "Matthew", "chapter": 1, "verse": 3}]
+[{"book": "Habakkuk", "chapter": 5, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2. All right, everyone, let's turn to Matthew 1, verse 3. All right, everyone, let's turn to Habakkuk 5.7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+[{"book": "Matthew", "chapter": 1, "verse": 3}]
+[{"book": "Habakkuk", "chapter": 5, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2. All right, everyone, let's turn to Matthew 1, verse 3. All right, everyone, let's turn to Habakkuk 5-7. All right, everyone, let's turn to Isaiah 3-24.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+[{"book": "Matthew", "chapter": 1, "verse": 3}]
+[{"book": "Habakkuk", "chapter": 5, "verse": null}, {"book": "Habakkuk", "chapter": 6, "verse": null}, {"book": "Habakkuk", "chapter": 7, "verse": null}]
+[{"book": "Isaiah", "chapter": 3, "verse": null}, {"book": "Isaiah", "chapter": 4, "verse": null}, {"book": "Isaiah", "chapter": 5, "verse": null}, {"book": "Isaiah", "chapter": 6, "verse": null}, {"book": "Isaiah", "chapter": 7, "verse": null}, {"book": "Isaiah", "chapter": 8, "verse": null}, {"book": "Isaiah", "chapter": 9, "verse": null}, {"book": "Isaiah", "chapter": 10, "verse": null}, {"book": "Isaiah", "chapter": 11, "verse": null}, {"book": "Isaiah", "chapter": 12, "verse": null}, {"book": "Isaiah", "chapter": 13, "verse": null}, {"book": "Isaiah", "chapter": 14, "verse": null}, {"book": "Isaiah", "chapter": 15, "verse": null}, {"book": "Isaiah", "chapter": 16, "verse": null}, {"book": "Isaiah", "chapter": 17, "verse": null}, {"book": "Isaiah", "chapter": 18, "verse": null}, {"book": "Isaiah", "chapter": 19, "verse": null}, {"book": "Isaiah", "chapter": 20, "verse": null}, {"book": "Isaiah", "chapter": 21, "verse": null}, {"book": "Isaiah", "chapter": 22, "verse": null}, {"book": "Isaiah", "chapter": 23, "verse": null}, {"book": "Isaiah", "chapter": 24, "verse": null}]
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3, verse 2. All right, everyone, let's turn to Matthew 1, verse 3. All right, everyone, let's turn to Isaiah 3, 24. All right, everyone, let's turn to Isaiah 3, 24. All right, everyone, let's turn to Isaiah 3, 24. All right, everyone, let's turn to John 1-1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2},
+ {"book": "Matthew", "chapter": 1, "verse": 3},
+ {"book": "Isaiah", "chapter": 3, "verse": 24},
+ {"book": "Isaiah", "chapter": 3, "verse": 24},
+ {"book": "Isaiah", "chapter": 3, "verse": 24},
+ {"book": "John", "chapter": 1, "verse": null}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. Alright everyone, let's turn to Revelation 2 verse 3.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone. Let's turn to Revelation 2 verse 3. All right, everyone. Let's turn to James 1 verse 5.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 3}]
+[{"book": "James", "chapter": 1, "verse": 5}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone, let's turn to Revelation 2 verse 3. All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3 12. Let's turn to John 3.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone, let's turn to Revelation 2 verse 3. All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to John 3 12.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4},
+ {"book": "Revelation", "chapter": 2, "verse": 3},
+ {"book": "James", "chapter": 1, "verse": 5},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "John", "chapter": 3, "verse": 12}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone, let's turn to Revelation 2 verse 3. All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to Jeremiah 2911.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4},
+ {"book": "Revelation", "chapter": 2, "verse": 3},
+ {"book": "James", "chapter": 1, "verse": 5},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "Jeremiah", "chapter": null, "verse": 2911}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone, let's turn to Revelation 2 verse 3. All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to Jeremiah 2911. All right, let's turn to John 3 12.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4},
+{"book": "Revelation", "chapter": 2, "verse": 3},
+{"book": "James", "chapter": 1, "verse": 5},
+{"book": "John", "chapter": 3, "verse": 12},
+{"book": "John", "chapter": 3, "verse": 12},
+{"book": "Jeremiah", "chapter": null, "verse": 11}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 4. All right, everyone, let's turn to Revelation 2 verse 3. All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to John 3 12. All right, everyone, let's turn to Jeremiah 2911. All right, everyone, let's turn to Jeremiah 29 verse 11.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 4},
+ {"book": "Revelation", "chapter": 2, "verse": 3},
+ {"book": "James", "chapter": 1, "verse": 5},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: four. All right, everyone, let's turn to Revelation 2, verse 3. All right, everyone, let's turn to James 1, verse 5. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to Jeremiah 2911. All right, everyone, let's turn to Jeremiah 2911. All right, let's turn to John 3, 12.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 3},
+ {"book": "James", "chapter": 1, "verse": 5},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "John", "chapter": 3, "verse": 12},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 1 verse 5. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to Jeremiah 2911. All right, everyone, let's turn to Jeremiah 29 verse 11. All right, everyone, let's turn to John 3, 12.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 12}]
+[{"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: 1 verse 5. All right, everyone, let's turn to John 3, 12. All right, everyone, let's turn to John 3, 12. I'll write everyone, let's turn to Jeremiah 2911. All right, everyone, let's turn to Jeremiah 2911. All right, everyone, let's turn to Exodus 3, 12.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 12}]
+[{"book": "Jeremiah", "chapter": 29, "verse": 11}]
+[{"book": "Exodus", "chapter": 3, "verse": 12}]
+---
+TRANSCRIBED: I'll write everyone that's turned to John 3 12. I'll write everyone that's turned to John 3 12. I'll write everyone that's turned to Jeremiah 2911. I'll write everyone that's turned to Jeremiah 2911. I'll write everyone that's turned to Jeremiah 2911. I'll write everyone that's turned to Exodus 3 12.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 12},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Exodus", "chapter": 3, "verse": 12}]
+---
+TRANSCRIBED: I'll write everyone that's turned to John 3.12. I'll write everyone that's turned to Jeremiah 2911. I'll write everyone that's turned to Jeremiah 2911. I'll write everyone that's turned to Exodus 3.12. It's turning our Bibles to Revelation 99 verse 4.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 12},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Exodus", "chapter": 3, "verse": 12},
+ {"book": "Revelation", "chapter": 9, "verse": 4}]
+---
+TRANSCRIBED: I'll write everyone that's turned to Jeremiah 2911. Let's turn to Jeremiah 2911. Alright, everyone. Let's turn to Exodus 3.12. Let's turn in our Bibles to Revelation 99 verse 4.
+RAW_RESPONSE:  [{"book": "Jeremiah", "chapter": 29, "verse": 11}]
+[{"book": "Exodus", "chapter": 3, "verse": 12}]
+[{"book": "Revelation", "chapter": 9, "verse": 4}]
+---
+TRANSCRIBED: I'll write everyone that's turned to Jeremiah 2911. Let's turn to Jeremiah 2911. Alright, everyone. Let's turn to Exodus 3.12. Let's turn to our Bibles to Revelation 99 verse 4. Let's turn to our Bibles to
+RAW_RESPONSE:  [{"book": "Jeremiah", "chapter": 29, "verse": 11}]
+[{"book": "Exodus", "chapter": 3, "verse": 12}]
+[{"book": "Revelation", "chapter": 9, "verse": 4}]
+---
+TRANSCRIBED: 2911. All right, everyone. Let's turn to Jeremiah 29 verse 11. All right, everyone. Let's turn to Exodus 3.12. Let's turn in our Bibles to Revelation 99 verse 4. Let's turn in our Bibles to Jude 1 3.
+RAW_RESPONSE:  [
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  },
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 12
+  },
+  {
+    "book": "Revelation",
+    "chapter": 99,
+    "verse": 4 // Note: There is no chapter 99 in Revelation. This is an error in the original input.
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 3
+  }
+]
+---
+TRANSCRIBED: All right, everyone. Let's turn to Jeremiah 29 verse 11. Let's turn to Exodus 3.12. Let's turn to our Bibles to Revelation 99 verse 4. Let's turn to our Bibles to Jude 1 3.
+RAW_RESPONSE:  [
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  },
+  {
+    "book": "Exodus",
+    "chapter": 3,
+    "verse": 12
+  },
+  {
+    "book": "Revelation",
+    "chapter": null,
+    "verse": 99
+  },
+  {
+    "book": "Jude",
+    "chapter": 1,
+    "verse": 3
+  }
+]
+---
+TRANSCRIBED: Let's turn to Jeremiah 29 verse 11. All right, everyone. Let's turn to Exodus 3.12. Let's turn to our Bibles 2 Revelation 99 verse 4. Let's turn to our Bibles 2 Jude 1 3. Let's turn to our Bibles 2 Jude 1 1.
+RAW_RESPONSE:  [{"book": "Jeremiah", "chapter": 29, "verse": 11},
+{"book": "Exodus", "chapter": 3, "verse": 12},
+{"book": "Revelation", "chapter": null, "verse": 99},
+{"book": "Jude", "chapter": 1, "verse": 4},
+{"book": "Jude", "chapter": 1, "verse": 3},
+{"book": "Jude", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Alright everyone, let's turn to Exodus 3.12. Let's turn in our Bibles to Revelation 99 verse 4. Let's turn in our Bibles to Jude 1 3. Alright everyone, let's turn in our Bibles to Jude 1 1. Alright everyone, let's turn in our Bibles to
+RAW_RESPONSE:  [{"book": "Exodus", "chapter": 3, "verse": 12},
+{"book": "Revelation", "chapter": 99, "verse": 4},
+{"book": "Jude", "chapter": 1, "verse": 3},
+{"book": "Jude", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: turn to Exodus 3 12. Let's turn in our Bibles to Revelation 99 verse 4. Let's turn in our Bibles to Jude 1 3. Now, right everyone, let's turn in our Bibles to Jude 1 1. Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse.
+RAW_RESPONSE:  [{"book": "Exodus", "chapter": 3, "verse": 12},
+{"book": "Revelation", "chapter": 99, "verse": 4},
+{"book": "Jude", "chapter": 1, "verse": 3},
+{"book": "Jude", "chapter": 1, "verse": 1},
+{"book": "Ecclesiastes", "chapter": null, "verse": null}]
+---
+TRANSCRIBED: Let's turn our Bibles to Revelation 99 verse 4. Let's turn our Bibles to Jude 1 3. Let's turn our Bibles to Jude 1 1. Let's turn our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 99, "verse": 4},
+ {"book": "Jude", "chapter": 1, "verse": 3},
+ {"book": "Jude", "chapter": 1, "verse": 1},
+ {"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: Let's turn in our Bibles to Revelation 99 verse 4. Let's turn in our Bibles to Jude 1 3. Let's turn in our Bibles to Jude 1 1. Let's turn in our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 99, "verse": 4},
+ {"book": "Jude", "chapter": 1, "verse": 3},
+ {"book": "Jude", "chapter": 1, "verse": 1},
+ {"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: Let's turn in our Bibles to Jude 1, 3. Now, right everyone, let's turn in our Bibles to Jude 1, 1. Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse 5. Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Jude", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's turn in our Bibles to Jude 1 3. Alright everyone, let's turn in our Bibles to Jude 1 1. Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse 5. Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Jude", "chapter": 1, "verse": 3}]
+---
+TRANSCRIBED: All right, everyone, let's turn our Bibles to Jude 1-1. All right, everyone, let's turn our Bibles to Ecclesiastes chapter 2 verse 5. Let's turn our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: All right, everyone, the stringer Bibles to Jude 1-1. Let's turn the Bibles to Ecclesiastes chapter 2 verse 5. Let's turn our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: All right, everyone, let's turn our Bibles to Jude 1-1. All right, everyone, let's turn our Bibles to Ecclesiastes. Chapter 2, verse 5. All right, everyone, let's turn our Bibles to Ecclesiastes. Chapter 2, verse 5. Let's turn our Bibles to Ecclesiastes. Chapter 2, verse 5. Add an unsustainable level or money printing.
+RAW_RESPONSE:  [{"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Ecclesiastes chapter 2 verse 5. Let's turn in our Bibles to Ecclesiastes chapter 2 verse 5. Let's turn in our Bibles to Ecclesiastes chapter 2 verse 5. At an unsustainable level, or money printing. As you can see, this started in 2023, so in terms of money printing and the government going further into debt, there is absolutely no difference between the Trump administration and the Biden administration. But Trump knows that all this debt matures very quickly, which is why he's very critical of Jerome Powell to lower interest rates, which he will not do. But take a look at what the dollar has been doing already in 2025.
+RAW_RESPONSE:  [{"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: verse 5. All right, everyone, let's turn our Bibles to Ecclesiastes chapter 2 verse 5. Let's turn our Bibles to Ecclesiastes chapter 2 verse 5. Let's turn our Bibles to Ecclesiastes chapter 2 verse 5.
+RAW_RESPONSE:  [{"book": "Ecclesiastes", "chapter": 2, "verse": 5}]
+---
+TRANSCRIBED: Alright, everyone, let's turn our Bibles to Ecclesiastes chapter 2 verse 5. As you can see, this started in 2023, so in terms of money printing and the government going further into debt, there is absolutely no difference between the Trump administration and the Biden administration. But Trump knows that all this debt matures very quickly, which is why he's very critical of Jerome Powell to lower interest rates, which he will not do. But take a look at what the dollar has been doing already in 2025. It has been tanking. And when taking a look at liquidity sensitive assets like Bitcoin above here on a longer term timeframe, you can see going back all the way since 2017. Alright, everyone, let's turn to Proverbs 2 verse 7.
+RAW_RESPONSE:  [{"book": "Proverbs", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: Alright, everyone, let's turn our Bibles to Ecclesiastes chapter 2 verse 5. As you can see, this started in 2023, so in terms of money printing and the government going further into debt, there is absolutely no difference between the Trump administration and the Biden administration. But Trump knows that all this debt matures very quickly, which is why he's very critical of Jerome Powell to lower interest rates, which he will not do. But take a look at what the dollar has been doing already in 2025. It has been tanking. And when taking a look at liquidity sensitive assets like Bitcoin above here on a longer term timeframe, you can see going back all the way since 2017. Alright, everyone, let's turn to Proverbs 2 verse 7. Mm.
+RAW_RESPONSE:  Here is the requested Bible reference in the required JSON format:
+
+```json
+[{"book": "Proverbs", "chapter": 2, "verse": 7}]
+```
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410.
+RAW_RESPONSE:  [{"book": "James", "chapter": 4, "verse": 10}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation.
+RAW_RESPONSE:  Here is the requested JSON object for James 4:10 and an empty array for Revelation as you asked:
+
+```json
+[
+  {
+    "book": "James",
+    "chapter": 4,
+    "verse": 10
+  },
+  {
+    "book": "Revelation",
+    "chapter": null,
+    "verse": null
+  }
+]
+```
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7.
+RAW_RESPONSE:  [{"book": "James", "chapter": 4, "verse": 10}]
+[{"book": "Revelation", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to...
+RAW_RESPONSE:  [{"book": "James", "chapter": 4, "verse": 10}]
+[{"book": "Revelation", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16}, {"book": "Matthew", "chapter": 2, "verse": 17}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16}, {"book": "Matthew", "chapter": 2, "verse": 17}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17. Verse 18.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16},
+ {"book": "Matthew", "chapter": 2, "verse": 17},
+ {"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17. Verse 18. Let's do Matthew chapter 2 verse 18.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16},
+ {"book": "Matthew", "chapter": 2, "verse": 17},
+ {"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17. Verse 18. Let's do Matthew chapter 2 verse 18. Verse 19.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16},
+ {"book": "Matthew", "chapter": 2, "verse": 17},
+ {"book": "Matthew", "chapter": 2, "verse": 18},
+ {"book": "Matthew", "chapter": 2, "verse": 19}]
+---
+TRANSCRIBED: All right, everyone, let's turn to James 410. All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Actually, let's make that verse 16. All right, and let's do verse 17. Verse 18. Let's do Matthew chapter 2 verse 18. Verse 19.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 16},
+ {"book": "Matthew", "chapter": 2, "verse": 17},
+ {"book": "Matthew", "chapter": 2, "verse": 18},
+ {"book": "Matthew", "chapter": 2, "verse": 19}]
+---
+TRANSCRIBED: All right, everyone's turn away to Revelation 1 verse 7. All right, everyone, let's turn to Matthew chapter 2 verse 14. Let's make that verse 16. All right, and let's do verse 17. Verse 18. Let's do Matthew chapter 2 verse 18. Verse 19. All right, next verse.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 19}]
+---
+TRANSCRIBED: to Revelation 1 verse 7. All right everyone, let's turn to Matthew chapter 2 verse 14. Actually let's make that verse 16. All right, and let's do verse 17. Verse 18. Let's do Matthew chapter 2 verse 18. Verse 19. All right, next verse. Can you turn to the next verse?
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 2, "verse": 19}]
+---
+TRANSCRIBED: Alright, so now we're gonna turn to James chapter 2, verse 1.
+RAW_RESPONSE:  [{"book": "James", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: Alright, so now we're gonna turn to James chapter 2, verse 1.
+RAW_RESPONSE:  [{"book": "James", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: Alright everyone, let's turn to John 360 in our Bibles.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 60}]
+---
+TRANSCRIBED: I'll write everyone, let's turn to John 360 in our Bibles.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 60}]
+---
+TRANSCRIBED: I'll write everyone, let's turn to John 360 in our Bibles.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 60}]
+---
+TRANSCRIBED: I'll write everyone, let's turn to John 360 in our Bibles.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 60}]
+---
+TRANSCRIBED: I'll write everyone, let's turn to John 360 in our Bibles.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 60}]
+---
+TRANSCRIBED: All right, everyone, turning our Bibles to...
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everyone, turning our Bibles to Revelation 713.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+---
+TRANSCRIBED: All right, everyone, turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+---
+TRANSCRIBED: All right, everyone, turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+---
+TRANSCRIBED: All right everyone, turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713. Turn in our Bibles to John 3.16.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: All right everyone turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713. Turn in our Bibles to John 3.16.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: All right everyone turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713. Turn in our Bibles to John 3.16. All right.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: All right everyone turning our Bibles to Revelation 713. Turn our Bibles to Revelation 713. Turn in our Bibles to John 3.16. All right.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 7, "verse": 13}]
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: All right, everybody, turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+[{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everybody, turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+[{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everybody, turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+[{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+```json
+[{"book": "John", "chapter": 1, "verse": 1}]
+```
+---
+TRANSCRIBED: All right, everybody, turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+[{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+```json
+[{"book": "John", "chapter": 1, "verse": 1}]
+```
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus.
+RAW_RESPONSE:  Here is a JSON object for the first verse of John in the New Testament:
+
+```json
+[{"book": "John", "chapter": 1, "verse": 1}]
+```
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3. Thank you.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3. Thank you.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: All right, everybody turn your Bibles to Jesus. All right, everyone turn to Genesis 3. That's Genesis 3.1.
+RAW_RESPONSE:  {"book": "Genesis", "chapter": 3, "verse": 1}
+---
+TRANSCRIBED: Alright everybody turn your Bibles to Jesus. Two, verse three. Alright everyone turn two. This is three, one. It's Genesis 3, one.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'm going to go back to the next one. I'll write everyone. Turn to Genesis 3. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. That's Genesis 3. 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: All right, everyone. Turn to Genesis 3. That's Genesis 3.1.
+RAW_RESPONSE:  {"book": "Genesis", "chapter": 3, "verse": 1}
+---
+TRANSCRIBED: All right, everyone turn to Genesis 3. That's Genesis. It's Genesis 3. 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: All right everyone let's turn in our Bibles to Genesis
+RAW_RESPONSE:  Here is the requested JSON object for the specified Bible verse:
+
+[{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right everyone, let's turn in our Bibles to Genesis 1.30.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 30}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13}, {"book": "Genesis", "chapter": 2, "verse": 37}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13}, {"book": "Genesis", "chapter": 2, "verse": 37}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. Let's turn to Genesis 1.14.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13}, {"book": "Genesis", "chapter": 1, "verse": 14}, {"book": "Genesis", "chapter": 2, "verse": 37}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. And let's turn to John 1.1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13},
+ {"book": "Genesis", "chapter": 2, "verse": 37},
+ {"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. And let's turn to John 1.11.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13},
+ {"book": "Genesis", "chapter": 2, "verse": 37},
+ {"book": "John", "chapter": 1, "verse": 11}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. And let's turn to John 1.11.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13},
+ {"book": "Genesis", "chapter": 2, "verse": 37},
+ {"book": "John", "chapter": 1, "verse": 11}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. And let's turn to John 1.11.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13},
+ {"book": "Genesis", "chapter": 2, "verse": 37},
+ {"book": "John", "chapter": 1, "verse": 11}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles to Genesis 1.13. Alright, let's turn in our Bibles to Genesis 1.13. And now let's turn to Genesis 2.37. And let's turn to John 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 13},
+ {"book": "Genesis", "chapter": 2, "verse": 37},
+ {"book": "John", "chapter": 1}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1.1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. And now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "Leviticus", "chapter": 3, "verse": 17}, {"book": "Leviticus", "chapter": 3, "verse": 18}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17}, {"book": "Leviticus", "chapter": 3, "verse": 18}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Thank you.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Thank you.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Now let's turn our Bibles to Genesis 3-1.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4},
+ {"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Now let's turn our Bibles to Genesis 3-1.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4},
+ {"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: Let's turn our Bibles to Genesis 1-1. Now everyone let's turn our Bibles to Leviticus chapter 3, verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Now let's turn our Bibles to Genesis 3-1. Now let's turn our Bibles to Revelation chapter 3, verse 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1},
+ {"book": "Leviticus", "chapter": 3, "verse": null},
+ {"book": "Leviticus", "chapter": 2, "verse": 4},
+ {"book": "Genesis", "chapter": 3, "verse": 1},
+ {"book": "Revelation", "chapter": 3, "verse": 7}]
+---
+TRANSCRIBED: And now everyone let's turn our Bibles to Leviticus chapter 3 verses 17 and 18. Let's turn our Bibles to Leviticus chapter 2 verse 4. Now let's turn our Bibles to Genesis 3 1. Now let's turn our Bibles to Revelation chapter 3 verse 7.
+RAW_RESPONSE:  [{"book": "Leviticus", "chapter": 3, "verse": 17},
+ {"book": "Leviticus", "chapter": 3, "verse": 18},
+ {"book": "Leviticus", "chapter": 2, "verse": 4},
+ {"book": "Genesis", "chapter": 3, "verse": 1},
+ {"book": "Revelation", "chapter": 3, "verse": 7}]
+---
+TRANSCRIBED: Turn to Genesis 3 6
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}]
+---
+TRANSCRIBED: Turn to Genesis 3 6.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}, {"book": "Revelation", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}, {"book": "Revelation", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}, {"book": "Revelation", "chapter": 2, "verse": 18}, {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6}, {"book": "Revelation", "chapter": 2, "verse": 18}, {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911. Now let's turn to Hellen.
+RAW_RESPONSE:  I'm sorry for any confusion, but there is no book in the Bible called "Hellen". The correct reference would be to a book such as Matthew, Mark, Luke, John, Acts, Romans, Corinthians, Galatians, Ephesians, Philippians, Colossians, Thessalonians, Timothy, Titus, Philemon, Hebrews, James, Peter, Jude, or Revelation. Here are the correct references for the verses you provided:
+
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 6
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "verse": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  }
+]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911. Now let's turn to Hezekiah 1.3.
+RAW_RESPONSE:  I'm sorry for any confusion, but there seems to be a mistake in your request. The book "Hezekiah" does not exist in the Bible. Here are the correct JSON objects for the verses you requested:
+
+```json
+[
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 6
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "verse": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  }
+]
+```
+
+Regarding the fourth verse you mentioned, since there is no book called "Hezekiah" in the Bible, I cannot provide a JSON object for it. If you meant to refer to another book or chapter, please let me know!
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911. Now let's turn to Hezekiah 1.3. Let's turn to Hezekiah 1.3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 6},
+ {"book": "Revelation", "chapter": 2, "verse": 18},
+ {"book": "Jeremiah", "chapter": null, "verse": 29, "verse_continuation": 11}]
+---
+TRANSCRIBED: Turn to Genesis 3.6. And now let's turn to Revelation 2.18. Now let's turn to Jeremiah 2911. Now let's turn to Hezekiah 1.3. Let's turn to Hezekiah 1.3. Let's turn to Hezekiah 1.3. Let's turn to Habakkuk.
+RAW_RESPONSE:  [
+  {
+    "book": "Genesis",
+    "chapter": 3,
+    "verse": 6
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "verse": 18
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  },
+  {
+    "book": "Hezekiah", // There is no book in the Bible named Hezekiah. The correct reference should be either II Kings or II Chronicles, depending on the specific event you are referring to.
+    "chapter": 1,
+    "verse": 3
+  },
+  {
+    "book": "Habakkuk"
+  }
+]
+---
+TRANSCRIBED: And now let's turn to Revelation 2 18. Now let's turn to Jeremiah 2911. Let's turn to Hezekiah 13. Let's turn to Hezekiah 13. Let's turn to Hezekiah 13.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 18},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: And now let's turn to Revelation 18. Now let's turn to Jeremiah 2911. Now let's turn to Hezekiah 13. Let's turn to Hezekiah 13. Let's turn to Hezekiah 13. Let's turn to Hezekiah 13. Chapter 1, verse 3.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 18, "verse": null}, {"book": "Jeremiah", "chapter": 29, "verse": 11}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Galatians", "chapter": 1, "verse": 12}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Galatians", "chapter": 1, "verse": 12}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Galatians", "chapter": 1, "verse": 12}],
+[{"book": "Revelation", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Galatians", "chapter": 1, "verse": 12}],
+[{"book": "Revelation", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Galatians", "chapter": 1, "verse": 12}],
+[{"book": "Revelation", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4. Let's turn to Jeremiah 29-11.
+RAW_RESPONSE:  [
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16
+  },
+  {
+    "book": "Galatians",
+    "chapter": 1,
+    "verse": 12
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "verse": 4
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  }
+]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4. Let's turn to Jeremiah 29-11. Let's turn to Galatians 1-12.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1},
+ {"book": "John", "chapter": 3, "verse": 16},
+ {"book": "Galatians", "chapter": 1, "verse": 12},
+ {"book": "Revelation", "chapter": 2, "verse": 4},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Galatians", "chapter": 1, "verse": null}]
+---
+TRANSCRIBED: Let's turn to Genesis 1-1. Let's turn to John 3-16. Let's turn to Galatians 1-12. Let's turn to Revelation 2-4. Let's turn to Jeremiah 29-11. Let's turn to Luke 5-12.
+RAW_RESPONSE:  [
+  {
+    "book": "Genesis",
+    "chapter": 1,
+    "verse": 1
+  },
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16
+  },
+  {
+    "book": "Galatians",
+    "chapter": 1,
+    "verse": 12
+  },
+  {
+    "book": "Revelation",
+    "chapter": 2,
+    "verse": 4
+  },
+  {
+    "book": "Jeremiah",
+    "chapter": 29,
+    "verse": 11
+  },
+  {
+    "book": "Luke",
+    "chapter": 5,
+    "verse": 12
+  }
+]
+---
+TRANSCRIBED: Let's turn to John 3.16. Let's turn to Galatians 1.12. Let's turn to Revelation 2.4. Let's turn to Jeremiah 29 verse 11. Let's turn to Luke 3. Verse 3.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 16},
+ {"book": "Galatians", "chapter": 1, "verse": 12},
+ {"book": "Revelation", "chapter": 2, "verse": 4},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Luke", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: Let's turn to Galatians 1.12. Let's turn to Revelation 2.4. Let's turn to Jeremiah 29 verse 11. Let's turn to Luke 3.
+RAW_RESPONSE:  [{"book": "Galatians", "chapter": 1, "verse": 12},
+ {"book": "Revelation", "chapter": 2, "verse": 4},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Luke", "chapter": 3, null}]
+---
+TRANSCRIBED: Let's turn to Revelation 2, 4. Let's turn to Jeremiah 29 verse 11. Let's turn to Luke 3, verse 3. Let's turn to the book of Luke 3, verse 3.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 4},
+ {"book": "Jeremiah", "chapter": 29, "verse": 11},
+ {"book": "Luke", "chapter": 3, "verse": 3},
+ {"book": "Luke", "chapter": 3, "verse": null}]
+---
+TRANSCRIBED: Let's turn to Revelation 2, 4. Let's turn to Jeremiah 29 verse 11. Let's turn to Luke 3, verse 3. Let's turn in our Bibles to Luke 3, verse 3.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 4}, {"book": "Jeremiah", "chapter": 29, "verse": 11}, {"book": "Luke", "chapter": 3, "verse": 3}]
