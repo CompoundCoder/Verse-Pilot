@@ -757,3 +757,318 @@ RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 4},
 ---
 TRANSCRIBED: Let's turn to Revelation 2, 4. Let's turn to Jeremiah 29 verse 11. Let's turn to Luke 3, verse 3. Let's turn in our Bibles to Luke 3, verse 3.
 RAW_RESPONSE:  [{"book": "Revelation", "chapter": 2, "verse": 4}, {"book": "Jeremiah", "chapter": 29, "verse": 11}, {"book": "Luke", "chapter": 3, "verse": 3}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Alright everyone, let's look at the verse Luke 1-1.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everyone, let's look at the verse Luke 1-1.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: All right, everyone, let's turn to Genesis 12, verse 13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 12, "verse": 13}]
+---
+TRANSCRIBED: Let's open Genesis 1-1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's open Genesis 1-1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+[{"book": "Luke", "chapter": 7, "verse": 1}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+[{"book": "Luke", "chapter": 7, "verse": 1}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13. Let's open our Bibles 2 Luke 7-13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "Luke", "chapter": 2, "verse": 7}, {"book": "Luke", "chapter": 2, "verse": 13}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13. Let's open our Bibles 2 Luke 7-13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "Luke", "chapter": 2, "verse": 7}, {"book": "Luke", "chapter": 2, "verse": 13}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13. That's the book of Luke chapter 7 verse 13.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 7, "verse": 13}]
+---
+TRANSCRIBED: Let's open Genesis 1-1. Let's open our Bibles 2 Luke 7-13. That's the book of Luke chapter 7 verse 13.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 7, "verse": 13}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles 2, James 1-4.
+RAW_RESPONSE:  [{"book": "James", "chapter": 1, "verse": null}, {"book": "James", "chapter": 2, "verse": null}, {"book": "James", "chapter": 3, "verse": null}, {"book": "James", "chapter": 4, "verse": null}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles 2, James 1, 4.
+RAW_RESPONSE:  [{"book": "James", "chapter": 1, "verse": 4}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles 2, James 1, 4.
+RAW_RESPONSE:  [{"book": "James", "chapter": 1, "verse": 4}]
+---
+TRANSCRIBED: Alright everyone, let's turn in our Bibles 2, James 1, 4.
+RAW_RESPONSE:  [{"book": "James", "chapter": 1, "verse": 4}]
+---
+TRANSCRIBED: Alright everyone, let's open our Bibles to Luke 11.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 11, "verse": null}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles to Luke 11. All right, let's open our Bibles to Genesis 11.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 11, "verse": null}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles to Luke 11. All right, let's open our Bibles to Genesis 11. All right, everyone, let's open our Bibles to James 410.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 11, "verse": null}]
+[{"book": "Genesis", "chapter": 11, "verse": null}]
+[{"book": "James", "chapter": 4, "verse": 10}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles to Luke 11. All right, let's open our Bibles to Genesis 11. All right, everyone, let's open our Bibles to James 410.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 11, "verse": null}]
+[{"book": "Genesis", "chapter": 11, "verse": null}]
+[{"book": "James", "chapter": 4, "verse": 10}]
+---
+TRANSCRIBED: Let's open up our Bibles 2 Genesis 1.1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: Let's open up our Bibles 2 Genesis 1 1. Let's open our Bibles 2 Matthew 3 13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "Matthew", "chapter": 3, "verse": 13}]
+---
+TRANSCRIBED: Let's open up our Bibles 2 Genesis 1 1. Let's open our Bibles 2 Matthew 3 13. That's over.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1}, {"book": "Matthew", "chapter": 3, "verse": 13}]
+---
+TRANSCRIBED: Let's open up our Bibles 2 Genesis 1 1. Let's open our Bibles 2 Matthew 3 13. Let's open up to Luke 2 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1},
+ {"book": "Matthew", "chapter": 3, "verse": 13},
+ {"book": "Luke", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: Let's open up our Bibles 2 Genesis 1 1. Let's open our Bibles 2 Matthew 3 13. Let's open up to Luke 2 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 1},
+ {"book": "Matthew", "chapter": 3, "verse": 13},
+ {"book": "Luke", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles 2 Matthew 1 verse 12.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 12}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles 2 Matthew 1 verse 12. All right, let's open our Bibles 2 Genesis 6 verse 3.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 12}]
+[{"book": "Genesis", "chapter": 6, "verse": 3}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles 2 Matthew 1 verse 12. All right, let's open in our Bibles 2 Genesis 6 verse 3. Let's open in our Bibles 2 Luke 4 verse 7.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 12}],
+[{"book": "Genesis", "chapter": 6, "verse": 3}],
+[{"book": "Luke", "chapter": 4, "verse": 7}]
+---
+TRANSCRIBED: All right, everyone, let's open our Bibles 2 Matthew 1 verse 12. All right, let's open our Bibles 2 Genesis 6 verse 3. Let's open our Bibles 2 Luke 4 verse 7.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 12}],
+[{"book": "Genesis", "chapter": 6, "verse": 3}],
+[{"book": "Luke", "chapter": 4, "verse": 7}]
+---
+TRANSCRIBED: Alright, let's look at Luke 2 verse 13.
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 2, "verse": 13}]
+---
+TRANSCRIBED: All right everyone, let's do John 1-3.
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}, {"book": "John", "chapter": 1, "verse": 2}, {"book": "John", "chapter": 1, "verse": 3}, {"book": "John", "chapter": 2, "verse": 1}, {"book": "John", "chapter": 2, "verse": 2}, {"book": "John", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's do John 1-3. Now we're gonna go to Genesis 12-13.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 12, "verse": null}, {"book": "Genesis", "chapter": 13, "verse": null}]
+---
+TRANSCRIBED: Alright everyone let's do John 1 3. Now we're going to do a two Genesis 12 13. Now we're going to do Matthew 2 7.
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 3}],
+[{"book": "Genesis", "chapter": 12, "verse": 13}],
+[{"book": "Matthew", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: Alright everyone let's do John 1 3. Now we're going to do a two Genesis 12 13. Now we're going to do Matthew 2 7.
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 3}],
+[{"book": "Genesis", "chapter": 12, "verse": 13}],
+[{"book": "Matthew", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: Alright everyone let's do John 1 3. Now we're going to do a two Genesis 12 13. Now we're going to do Matthew 2 7. Now we're going to do Genesis 9 11.
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 3},
+ {"book": "Genesis", "chapter": 12, "verse": 13},
+ {"book": "Matthew", "chapter": 2, "verse": 7},
+ {"book": "Genesis", "chapter": 9, "verse": 11}]
+---
+TRANSCRIBED: Alright everyone let's do John 1 3. Now we're going to do a two Genesis 12 13. Now we're going to do Matthew 2 7. Now we're going to do Genesis 9 11.
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 3},
+ {"book": "Genesis", "chapter": 12, "verse": 13},
+ {"book": "Matthew", "chapter": 2, "verse": 7},
+ {"book": "Genesis", "chapter": 9, "verse": 11}]
+---
+TRANSCRIBED: Alright everyone, let's turn to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone, let's turn to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone, let's turn to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}, {"book": "James", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}, {"book": "James", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3. Alright let's turn in our Bibles to
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}, {"book": "James", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3. Alright let's turn in our Bibles to Exodus 17 verse 6.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}, {"book": "James", "chapter": 2, "verse": 3}, {"book": "Exodus", "chapter": 17, "verse": 6}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3. Alright let's turn in our Bibles to Exodus 17 verse 6.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}, {"book": "Philippians", "chapter": 1, "verse": 7}, {"book": "James", "chapter": 2, "verse": 3}, {"book": "Exodus", "chapter": 17, "verse": 6}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3. Alright let's turn in our Bibles to Exodus 17 verse 6. And now let's turn in our Bibles to Jude 1 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3},
+ {"book": "Philippians", "chapter": 1, "verse": 7},
+ {"book": "James", "chapter": 2, "verse": 3},
+ {"book": "Exodus", "chapter": 17, "verse": 6},
+ {"book": "Jude", "chapter": 1, "verse": 3}]
+---
+TRANSCRIBED: Alright everyone let's turn to Genesis chapter 2 verse 3. Now let's turn our Bibles to Philippians 1, 7. Now let's turn to James 2, 3. Alright let's turn in our Bibles to Exodus 17 verse 6. And now let's turn in our Bibles to Jude 1 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3},
+ {"book": "Philippians", "chapter": 1, "verse": 7},
+ {"book": "James", "chapter": 2, "verse": 3},
+ {"book": "Exodus", "chapter": 17, "verse": 6},
+ {"book": "Jude", "chapter": 1, "verse": 3}]
+---
+TRANSCRIBED: All right, turning your Bibles to Matthew 1, chapter 2.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": null}]
+---
+TRANSCRIBED: Alright, turning your Bibles to Matthew 1, chapter 2. Then turning your Bibles to Genesis 3.7.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": null}, {"book": "Genesis", "chapter": 3, "verse": 7}]
+---
+TRANSCRIBED: Alright, turning your Bibles to Matthew 1, chapter 2. Then turning your Bibles to Genesis 3, 7. Then turning your Bibles to Philippians 1, 17.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 1},
+ {"book": "Genesis", "chapter": 3, "verse": 7},
+ {"book": "Philippians", "chapter": 1, "verse": 17}]
+---
+TRANSCRIBED: Alright, turning your Bibles to Matthew 1, chapter 2. Then turning your Bibles to Genesis 3, 7. Then turning your Bibles to Philippians 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17. And turning your Bibles to Matthew 1, 17.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 17}]
+---
+TRANSCRIBED: Alright, turning your Bibles to Matthew 1, chapter 2. Then turning your Bibles to Genesis 3, 7. Then turning your Bibles to Philippians 1, 17. And turning your Bibles to James 2, 4.
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 1, "verse": 1},
+ {"book": "Genesis", "chapter": 3, "verse": 7},
+ {"book": "Philippians", "chapter": 1, "verse": 17},
+ {"book": "James", "chapter": 2, "verse": 4}]
+---
+TRANSCRIBED: Let's do Genesis chapter 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: Let's do Genesis chapter 2 verse 1. Let's do John 3.16.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: Let's do Genesis chapter 2 verse 1. Let's do John 3.16. Let's do
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: Let's do Genesis chapter 2 verse 1. Let's do John 3.16. Let's do Matthew chapter 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Matthew", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: Let's do Genesis chapter 2 verse 1. Let's do John 3.16. Let's do Matthew chapter 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}],
+[{"book": "John", "chapter": 3, "verse": 16}],
+[{"book": "Matthew", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 2, "verse": 7}]
+
+I find it fascinating how the Bible is a rich tapestry of stories, teachings, and prophecies. It's incredible to think that these texts have been influencing human civilization for thousands of years. The story of Jesus' birth in Luke chapter 2 is one of my favorites. It's a reminder of hope, love, and the promise of redemption during a time when the world was in great need.
+
+In this particular verse, we see the shepherds being told about the birth of Jesus by an angel. The angel says, "For unto you is born this day in the city of David a Savior, which is Christ the Lord." This simple statement carries such profound meaning and sets the stage for the rest of the New Testament.
+
+It's amazing to think that these words were written nearly 2000 years ago and are still relevant today. They remind us of the importance of faith, love, and hope in our own lives. I find it inspiring to reflect on these verses and consider how they can guide my actions and decisions.
+
+But enough about me, let's turn to another verse. How about Psalm 23:1?
+
+[{"book": "Psalms", "chapter": 23, "verse": 1}]
+
+This verse is a beautiful reminder of God's presence and protection in our lives. The psalmist says, "The Lord is my shepherd; I shall not want." This simple statement carries such profound comfort and reassurance. It reminds us that no matter what challenges we face, God is always with us, providing for our needs and guiding us on the right path.
+
+I find it incredible to think about how these words were written thousands of years ago and are still relevant today. They remind us of the importance of trusting in God's guidance and provision in our lives. I find it inspiring to reflect on these verses and consider how they can guide my actions and decisions.
+
+Do you have a favorite Bible verse that you'd like to discuss? Let me know, and we can explore it together!
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like It is low confidence that that's what I said But I don't have it adjusted like because right now I set it and it knew that I set it But it says confidence is zero. So I have it set where there's like a pop-up like this for if It thinks I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto Approve it and so right now it's gonna auto approve it
+RAW_RESPONSE:  Here is the Bible verse you requested:
+
+```json
+[{"book": "Luke", "chapter": 2, "verse": 7}]
+```
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like It is low confidence that that's what I said But I don't have it adjusted like because right now I set it and it knew that I set it But it says confidence is zero. So I have it set where there's like a pop-up like this for if It thinks I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto Approve it and so right now it's gonna auto approve it I did not say that But versus so if you go to revelation chapter three verse four
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 3, "verse": 4}]
+
+I find it fascinating how the Book of Revelation is filled with symbolism and prophecy. The imagery used in this book is quite vivid and can be interpreted in various ways, making it a subject of much debate among scholars and believers alike. It's always intriguing to delve deeper into its meaning and try to understand the messages hidden within its pages.
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like It is low confidence that that's what I said But I don't have it adjusted like because right now I set it and it knew that I set it But it says confidence is zero. So I have it set where there's like a pop-up like this for if It thinks I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto Approve it and so right now it's gonna auto approve it I did not say that But versus so if you go to revelation chapter three verse four Then I'll pop this up I just want to add a bunch of verses in here
+RAW_RESPONSE:  [
+  {
+    "book": "Luke",
+    "chapter": 2,
+    "verse": 7
+  },
+  {
+    "book": "Revelation",
+    "chapter": 3,
+    "verse": 4
+  }
+]
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like It is low confidence that that's what I said But I don't have it adjusted like because right now I set it and it knew that I set it But it says confidence is zero. So I have it set where there's like a pop-up like this for if It thinks I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto Approve it and so right now it's gonna auto approve it I did not say that But versus so if you go to revelation chapter three verse four Then I'll pop this up I just want to add a bunch of verses in here and Then Matthew chapter two verse 18
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 2, "verse": 7},
+{"book": "Revelation", "chapter": 3, "verse": 4},
+{"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: And then you can just talk about whatever you want to talk about and then you can just go You know what I want to turn to Luke chapter two verse seven And I'll do that And if right now I have this thing where it's like It is low confidence that that's what I said But I don't have it adjusted like because right now I set it and it knew that I set it But it says confidence is zero. So I have it set where there's like a pop-up like this for if It thinks I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto Approve it and so right now it's gonna auto approve it I did not say that But versus so if you go to revelation chapter three verse four Then I'll pop this up I just want to add a bunch of verses in here Mm-hmm And then Matthew chapter two verse 18
+RAW_RESPONSE:  [{"book": "Luke", "chapter": 2, "verse": 7},
+{"book": "Revelation", "chapter": 3, "verse": 4},
+{"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: Right now I have this thing where it's like, it is low confidence that that's what I said. But I don't have it adjusted like, because right now I set it and it knew that I set it, but it says confidence is zero. So I have it set where there's like a pop up like this for if it thinks I said something, but it's not 100% sure. And so it would pop up and like a person would have to approve it or it can auto approve it. And so right now it's gonna auto approve it. I did not say that. I would have a catch a light in the room. But versus, so if you go do revelation chapter three, verse four, then I'll pop this up. I just wanna add a bunch of verses in here. And then Matthew chapter two, verse 18. So you can just kind of, just like with it, it's an AI is running it. So Facebook's AI is running it in the background. So you could say turn in your Bibles to Revelation to verse three, actually make that verse four.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 3, "verse": 4}, {"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: set it and it knew that I set it, but it says confidence is zero. So I have it set where there's like a pop up like this for if it thinks I said something, but it's not 100% sure. And so it would pop up in like a person would have to approve it or it can auto approve it. And so right now it's going to auto approve it. I did not say that. But versus. So if you go to Revelation chapter three verse four. Then I'll pop this up. I just want to add a bunch of verses in here. And then Matthew chapter two verse 18. So you can just kind of just like with it. It's an AI is running it. So Facebook's AI is running it in the meet in the background. So you could say turn in your Bibles to Revelation two verse three. Actually make that verse four. Let's see if it actually does it. Uh oh.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 3, "verse": 4}]
+[{"book": "Matthew", "chapter": 2, "verse": 18}]
+---
+TRANSCRIBED: I said something but it's not 100% sure and so it would pop up and like a person would have to approve it or it can auto approve it and so right now it's gonna auto approve it I did not say that But versus so if you go do revelation chapter three verse four But now pop this up I just want to add a bunch of verses in here Mm-hmm And then Matthew chapter two verse 18 So you can just kind of just like what it's with it's an AI is running it so Facebook's AI is Running it in the me in the background So you could say turn in your Bibles to revelation Two verse three actually make that verse four You Let's see if it actually does it. Uh-oh. No There's an air so like with some of the logic and a lot of stuff. I'm still Let's turn to Genesis chapter two verse seven
+RAW_RESPONSE:  Here is the requested JSON object:
+
+[{"book": "Genesis", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: to approve it or it can auto approve it. And so right now it's gonna auto approve it. I did not say that. I would have a little catch a little bit. But versus, so if you go do Revelation chapter three, verse four, then I'll pop this up. I just wanna add a bunch of verses in here. And then Matthew chapter two verse 18. So you can just kind of, just like with it, it's an AI is running it. So Facebook's AI is running it in the background. So you could say turn in your Bibles to Revelation to verse three, actually make that verse four. So let's see if it actually does it. Uh oh, no. There's an error. So like with some of the logic and a lot of type of stuff, I'm still, let's turn to Genesis chapter two verse seven.
+RAW_RESPONSE:  [{"book": "Revelation", "chapter": 3, "verse": 4}, {"book": "Genesis", "chapter": 2, "verse": 7}]
+---
+TRANSCRIBED: Let's do James chapter 2 verse 11.
+RAW_RESPONSE:  [{"book": "James", "chapter": 2, "verse": 11}]
+---
+TRANSCRIBED: Turn to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Turn to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]

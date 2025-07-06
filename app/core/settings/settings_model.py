@@ -31,7 +31,8 @@ class SettingsModel:
             "confidence_threshold": 0.6,
             "auto_show_after_delay": True,
             "auto_show_delay_seconds": 30,
-            "sidebar_visible": True
+            "sidebar_visible": True,
+            "last_used_mic": None
         }
         # // Loads the settings from disk when the model is initialized.
         self._settings = self._load()
@@ -51,6 +52,12 @@ class SettingsModel:
                 return self._defaults.copy()
         # // If the file does not exist, return a copy of the defaults.
         return self._defaults.copy()
+
+    def restore_defaults(self):
+        """Resets all settings to their default values."""
+        self._settings = self._defaults.copy()
+        self._save()
+        logging.info("Settings restored to default values.")
 
     def _save(self):
         """Saves the current settings to the JSON file."""
@@ -108,6 +115,15 @@ class SettingsModel:
     @sidebar_visible.setter
     def sidebar_visible(self, value: bool):
         self._settings["sidebar_visible"] = value
+        self._save()
+
+    @property
+    def last_used_mic(self) -> Optional[str]:
+        return self._settings.get("last_used_mic", self._defaults["last_used_mic"])
+    
+    @last_used_mic.setter
+    def last_used_mic(self, value: Optional[str]):
+        self._settings["last_used_mic"] = value
         self._save()
 
 def get_settings() -> SettingsModel:
