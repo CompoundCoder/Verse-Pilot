@@ -6,13 +6,23 @@ import time
 import collections
 import numpy as np
 import json
+import requests
 
 import sounddevice as sd
 from vosk import Model, KaldiRecognizer
 import whisper
 from typing import Optional, Deque, List, Dict
+from app.core.bible.constants import TRIGGER_KEYWORDS, BIBLE_BOOKS, BOOK_TO_NUM_CHAPTERS, BOOK_VERSE_COUNTS
+from PyQt6.QtCore import QObject, pyqtSignal
 
-from app.core.nlp.verse_parser import parse_verse_from_text
+# --- New Pipeline Imports ---
+from app.core.ai.fast_extractor import FastVerseExtractor
+from app.core.ai.slow_validator import validate_with_gemini
+from app.core.verse_buffer import VerseBuffer, VerseCandidate
+from app.core.state_tracker import set_last_confirmed, get_last_confirmed
+
+# This buffer will hold all candidates for potential future UI display
+verse_buffer = VerseBuffer()
 
 # --- Configuration ---
 SAMPLE_RATE = 16000
@@ -22,11 +32,26 @@ WHISPER_MODEL_NAME = "tiny.en"
 AUDIO_BUFFER_SECONDS = 5  # Shorter buffer for faster processing
 COOLDOWN_SECONDS = 3  # Prevent overlapping transcription attempts
 
-class VerseListener:
+SYSTEM_PROMPT = """
+You are a verse detection assistant embedded in a live audio transcription app.
+When given raw English transcript text (from speech), your job is to:
+1. Identify if it contains a reference to a Bible verse.
+2. If it does, extract the verse's book name, chapter, and verse number.
+3. Return ONLY a clean JSON object in this format:
+   {"book": "John", "chapter": 1, "verse": 1}
+4. If there is no verse present, return {"book": null, "chapter": null, "verse": null}.
+Do not add any extra commentary. Do not guess. Be precise.
+"""
+
+class VerseListener(QObject):
     """
     Handles continuous audio listening and verse detection in a non-blocking way.
     """
+    # Define a signal that will carry a dictionary (the verse data)
+    verse_needs_confirmation = pyqtSignal(dict)
+
     def __init__(self):
+        super().__init__()
         self._listener_thread: Optional[threading.Thread] = None
         self._transcription_thread: Optional[threading.Thread] = None
         self._running = threading.Event() # Use an event to signal stop
@@ -47,6 +72,7 @@ class VerseListener:
         self.last_detection_time = 0
         self.vosk_model = self._load_vosk_model()
         self.whisper_model = self._load_whisper_model()
+        self.last_processed_transcript = None
 
     def _load_vosk_model(self):
         if not os.path.exists(VOSK_MODEL_PATH):
@@ -76,6 +102,7 @@ class VerseListener:
         self._running.set()
         self._listener_thread = threading.Thread(target=self._run, name="VerseListenerThread")
         self._listener_thread.start()
+        self.last_processed_transcript = None # Reset on start
         logging.info("Verse listener started.")
 
     def stop_listening(self):
@@ -144,6 +171,7 @@ class VerseListener:
         if time.time() - self.last_detection_time < COOLDOWN_SECONDS:
             return
         audio_snapshot = list(self.audio_buffer)
+        self.audio_buffer.clear()
         self._transcription_thread = threading.Thread(
             target=self._transcribe_and_process,
             args=(audio_snapshot, confidence),
@@ -151,54 +179,111 @@ class VerseListener:
         )
         self._transcription_thread.start()
 
+    def _format_candidate_for_queue(self, candidate: VerseCandidate) -> dict:
+        """Converts a VerseCandidate to the dict format expected by the UI queue."""
+        return {
+            "book": candidate.book,
+            "chapter": candidate.chapter,
+            "verse": candidate.verse,
+            "reference": f"{candidate.book} {candidate.chapter}:{candidate.verse}",
+            "raw_transcript": candidate.transcript_snippet,
+            "confidence": candidate.confidence_score * 100,
+            "source": candidate.source,
+            "timestamp": candidate.timestamp.timestamp(),
+            "explanation": candidate.explanation,
+        }
+
     def _transcribe_and_process(self, audio_data_bytes, confidence: float):
         """
-        Transcribes audio and queues verse data.
-        Adds validation to skip invalid verses (e.g. non-existent chapters).
+        Transcribes audio and runs it through the fast/slow detection pipeline.
         """
         try:
             self.last_detection_time = time.time()
             
+            # 1. Transcribe the raw audio bytes using the Whisper model
+            print("🎤 [Listener] Starting transcription...")
             full_audio_np = np.frombuffer(b"".join(audio_data_bytes), dtype=np.int16)
             full_audio_fp32 = full_audio_np.astype(np.float32) / 32768.0
-    
-            result = self.whisper_model.transcribe(full_audio_fp32)
-            text = result.get("text", "").strip()
-    
-            if not text:
+            
+            result = self.whisper_model.transcribe(full_audio_fp32, language="en")
+            transcript = result.get("text", "").strip()
+
+            # Deduplication memory
+            if not hasattr(self, "_recent_transcripts"):
+                self._recent_transcripts = []
+
+            FILLER_PHRASES = {
+                "let's see here", "uh", "huh", "okay", "", ".", "terminal", "all this"
+            }
+
+            # Normalize transcript
+            normalized = transcript.strip().lower()
+
+            # 1. Check if it's a duplicate
+            if normalized in self._recent_transcripts:
+                logging.warning(f"[Listener] Skipping duplicate transcript: \"{transcript}\"")
                 return
-    
-            logging.info(f"🗣️ Whisper Transcription: '{text}'")
-    
-            verse_list = parse_verse_from_text(text)
-    
-            if not verse_list:
-                logging.warning(f"⚠️ Verse not found or empty: {text}")
+
+            # 2. Check if it's a filler or junk
+            if normalized in FILLER_PHRASES:
+                logging.info(f"[Listener] Skipping filler phrase: \"{transcript}\"")
                 return
-    
-            # Store full list for possible future use
-            self._last_verses = verse_list
-            logging.info(f"✅ Parsed {len(verse_list)} verse(s)")
-    
-            # Only use the last verse, but validate it first
-            last_verse = verse_list[-1]
-            if (
-                isinstance(last_verse, dict)
-                and isinstance(last_verse.get("book"), str)
-                and isinstance(last_verse.get("chapter"), int)
-                and (
-                    last_verse.get("verse") is None
-                    or isinstance(last_verse.get("verse"), int)
-                )
-            ):
-                last_verse["confidence"] = confidence
-                self.verse_queue.put(last_verse)
-                logging.info(f"📥 Queued verse: {last_verse}")
+
+            # 3. Check if it's too short and not meaningful
+            if len(normalized.split()) < 5 and not any(book.lower() in normalized for book in BIBLE_BOOKS):
+                logging.info(f"[Listener] Skipping short transcript: \"{transcript}\"")
+                return
+
+            # Keep recent memory (max 5)
+            self._recent_transcripts.append(normalized)
+            if len(self._recent_transcripts) > 5:
+                self._recent_transcripts.pop(0)
+
+            # --- FIX: Prevent re-processing the same utterance ---
+            if transcript and transcript == self.last_processed_transcript:
+                logging.warning(f"[Listener] Skipping duplicate transcript: \"{transcript}\"")
+                return
+            self.last_processed_transcript = transcript
+            # --- END FIX ---
+            
+            print(f"📝 [Listener] Transcript ready for processing: \"{transcript}\"")
+
+            # --- Start New Detection Pipeline ---
+            # 1. Fast, local extraction
+            candidate = FastVerseExtractor.extract_candidate(transcript)
+
+            if candidate:
+                # Always trust the fast extractor for now
+                self.verse_queue.put(self._format_candidate_for_queue(candidate))
+                verse_buffer.add_candidate(candidate)
             else:
-                logging.warning(f"❌ Skipping invalid verse format: {last_verse}")
-    
+                # 2. Slow, cloud-based validation if fast fails
+                last_book, last_chapter = get_last_confirmed()
+                slow_candidates = validate_with_gemini(transcript, last_book=last_book, last_chapter=last_chapter)
+
+                # If no verse found, do nothing
+                if not slow_candidates:
+                    logging.info(f"[Listener] Slow validator found no candidates in: \"{transcript}\"")
+                    return
+
+                # 3. Queue the verse for the UI
+                logging.info(f"✅ [Listener] Slow validator returned {len(slow_candidates)} candidates. Queueing...")
+                for candidate in slow_candidates:
+                    if candidate.book not in BOOK_TO_NUM_CHAPTERS: continue
+                    if candidate.chapter > BOOK_TO_NUM_CHAPTERS[candidate.book]: continue
+                    if candidate.verse > BOOK_VERSE_COUNTS[candidate.book].get(candidate.chapter, 0): continue
+
+                    set_last_confirmed(candidate.book, candidate.chapter)
+                    verse_buffer.add_candidate(candidate)
+                    
+                    if candidate.review_required:
+                        logging.info(f"Verse requires confirmation: {candidate.book} {candidate.chapter}:{candidate.verse}")
+                        self.verse_needs_confirmation.emit(self._format_candidate_for_queue(candidate))
+                    else:
+                        self.verse_queue.put(self._format_candidate_for_queue(candidate))
+
         except Exception as e:
-            logging.error(f"Error during transcription: {e}", exc_info=True)
+            logging.error(f"Error in transcription/processing: {e}", exc_info=True)
         finally:
             self._transcription_thread = None
 

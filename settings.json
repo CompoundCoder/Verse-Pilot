@@ -1,0 +1,13 @@
+{
+    "mic_device": "MacBook Pro Microphone",
+    "theme": "dark",
+    "sidebar_split_sizes": [
+        235,
+        415
+    ],
+    "use_online_ai": true,
+    "sidebar_visible": true,
+    "require_approval": false,
+    "confidence_threshold": 0.75,
+    "confirmation_popup": false
+}

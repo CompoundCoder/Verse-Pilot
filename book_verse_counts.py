@@ -1,0 +1,2290 @@
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/43.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/44.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/45.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/46.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/47.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/48.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/49.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Genesis/50.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Exodus/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Leviticus/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Numbers/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Deuteronomy/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joshua/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Judges/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ruth/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ruth/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ruth/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ruth/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Samuel/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Samuel/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Kings/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Kings/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Chronicles/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Chronicles/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezra/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nehemiah/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Esther/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Job/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/43.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/44.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/45.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/46.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/47.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/48.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/49.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/50.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/51.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/52.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/53.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/54.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/55.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/56.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/57.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/58.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/59.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/60.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/61.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/62.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/63.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/64.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/65.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/66.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/67.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/68.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/69.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/70.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/71.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/72.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/73.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/74.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/75.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/76.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/77.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/78.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/79.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/80.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/81.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/82.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/83.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/84.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/85.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/86.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/87.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/88.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/89.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/90.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/91.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/92.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/93.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/94.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/95.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/96.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/97.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/98.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/99.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/100.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/101.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/102.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/103.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/104.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/105.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/106.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/107.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/108.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/109.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/110.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/111.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/112.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/113.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/114.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/115.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/116.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/117.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/118.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/119.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/120.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/121.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/122.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/123.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/124.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/125.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/126.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/127.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/128.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/129.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/130.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/131.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/132.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/133.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/134.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/135.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/136.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/137.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/138.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/139.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/140.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/141.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/142.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/143.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/144.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/145.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/146.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/147.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/148.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/149.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Psalms/150.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Proverbs/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ecclesiastes/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Song%20of%20Solomon/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/43.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/44.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/45.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/46.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/47.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/48.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/49.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/50.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/51.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/52.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/53.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/54.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/55.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/56.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/57.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/58.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/59.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/60.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/61.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/62.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/63.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/64.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/65.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Isaiah/66.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/43.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/44.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/45.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/46.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/47.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/48.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/49.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/50.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/51.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jeremiah/52.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Lamentations/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Lamentations/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Lamentations/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Lamentations/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Lamentations/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/29.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/30.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/31.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/32.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/33.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/34.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/35.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/36.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/37.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/38.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/39.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/40.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/41.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/42.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/43.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/44.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/45.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/46.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/47.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ezekiel/48.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Daniel/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hosea/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joel/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joel/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Joel/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Amos/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Obadiah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jonah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jonah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jonah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jonah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Micah/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nahum/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nahum/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Nahum/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Habakkuk/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Habakkuk/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Habakkuk/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zephaniah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zephaniah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zephaniah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Haggai/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Haggai/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Zechariah/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Malachi/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Malachi/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Malachi/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Malachi/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Matthew/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Mark/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Luke/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/John/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/22.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/23.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/24.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/25.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/26.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/27.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Acts/28.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Romans/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Corinthians/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Corinthians/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Galatians/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Ephesians/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Philippians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Philippians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Philippians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Philippians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Colossians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Colossians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Colossians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Colossians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Thessalonians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Thessalonians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Thessalonians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Thessalonians/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Thessalonians/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Thessalonians/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Thessalonians/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Thessalonians/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Timothy/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Timothy/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Timothy/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Timothy/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Timothy/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Titus/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Titus/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Titus/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Philemon/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Hebrews/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/James/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/James/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/James/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/James/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/James/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Peter/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Peter/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Peter/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Peter/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20Peter/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Peter/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Peter/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20Peter/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20John/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20John/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20John/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20John/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/1%20John/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/2%20John/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/3%20John/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Jude/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/1.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/2.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/3.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/4.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/5.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/6.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/7.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/8.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/9.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/10.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/11.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/12.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/13.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/14.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/15.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/16.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/17.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/18.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/19.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/20.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/21.json
+Fetching https://raw.githubusercontent.com/kenyonbowers/Bible-JSON/main/JSON/Revelation/22.json
+BOOK_VERSE_COUNTS = \
+{'1Chronicles': {1: 54,
+                 2: 55,
+                 3: 24,
+                 4: 43,
+                 5: 26,
+                 6: 81,
+                 7: 40,
+                 8: 40,
+                 9: 44,
+                 10: 14,
+                 11: 47,
+                 12: 40,
+                 13: 14,
+                 14: 17,
+                 15: 29,
+                 16: 43,
+                 17: 27,
+                 18: 17,
+                 19: 19,
+                 20: 8,
+                 21: 30,
+                 22: 19,
+                 23: 32,
+                 24: 31,
+                 25: 31,
+                 26: 32,
+                 27: 34,
+                 28: 21,
+                 29: 30},
+ '1Corinthians': {1: 31,
+                  2: 16,
+                  3: 23,
+                  4: 21,
+                  5: 13,
+                  6: 20,
+                  7: 40,
+                  8: 13,
+                  9: 27,
+                  10: 33,
+                  11: 34,
+                  12: 31,
+                  13: 13,
+                  14: 40,
+                  15: 58,
+                  16: 24},
+ '1John': {1: 10, 2: 29, 3: 24, 4: 21, 5: 21},
+ '1Kings': {1: 53,
+            2: 46,
+            3: 28,
+            4: 34,
+            5: 18,
+            6: 38,
+            7: 51,
+            8: 66,
+            9: 28,
+            10: 29,
+            11: 43,
+            12: 33,
+            13: 34,
+            14: 31,
+            15: 34,
+            16: 34,
+            17: 24,
+            18: 46,
+            19: 21,
+            20: 43,
+            21: 29,
+            22: 53},
+ '1Peter': {1: 25, 2: 25, 3: 22, 4: 19, 5: 14},
+ '1Samuel': {1: 28,
+             2: 36,
+             3: 21,
+             4: 22,
+             5: 12,
+             6: 21,
+             7: 17,
+             8: 22,
+             9: 27,
+             10: 27,
+             11: 15,
+             12: 25,
+             13: 23,
+             14: 52,
+             15: 35,
+             16: 23,
+             17: 58,
+             18: 30,
+             19: 24,
+             20: 42,
+             21: 15,
+             22: 23,
+             23: 29,
+             24: 22,
+             25: 44,
+             26: 25,
+             27: 12,
+             28: 25,
+             29: 11,
+             30: 31,
+             31: 13},
+ '1Thessalonians': {1: 10, 2: 20, 3: 13, 4: 18, 5: 28},
+ '1Timothy': {1: 20, 2: 15, 3: 16, 4: 16, 5: 25, 6: 21},
+ '2Chronicles': {1: 17,
+                 2: 18,
+                 3: 17,
+                 4: 22,
+                 5: 14,
+                 6: 42,
+                 7: 22,
+                 8: 18,
+                 9: 31,
+                 10: 19,
+                 11: 23,
+                 12: 16,
+                 13: 22,
+                 14: 15,
+                 15: 19,
+                 16: 14,
+                 17: 19,
+                 18: 34,
+                 19: 11,
+                 20: 37,
+                 21: 20,
+                 22: 12,
+                 23: 21,
+                 24: 27,
+                 25: 28,
+                 26: 23,
+                 27: 9,
+                 28: 27,
+                 29: 36,
+                 30: 27,
+                 31: 21,
+                 32: 33,
+                 33: 25,
+                 34: 33,
+                 35: 27,
+                 36: 23},
+ '2Corinthians': {1: 24,
+                  2: 17,
+                  3: 18,
+                  4: 18,
+                  5: 21,
+                  6: 18,
+                  7: 16,
+                  8: 24,
+                  9: 15,
+                  10: 18,
+                  11: 33,
+                  12: 21,
+                  13: 14},
+ '2John': {1: 13},
+ '2Kings': {1: 18,
+            2: 25,
+            3: 27,
+            4: 44,
+            5: 27,
+            6: 33,
+            7: 20,
+            8: 29,
+            9: 37,
+            10: 36,
+            11: 21,
+            12: 21,
+            13: 25,
+            14: 29,
+            15: 38,
+            16: 20,
+            17: 41,
+            18: 37,
+            19: 37,
+            20: 21,
+            21: 26,
+            22: 20,
+            23: 37,
+            24: 20,
+            25: 30},
+ '2Peter': {1: 21, 2: 22, 3: 18},
+ '2Samuel': {1: 27,
+             2: 32,
+             3: 39,
+             4: 12,
+             5: 25,
+             6: 23,
+             7: 29,
+             8: 18,
+             9: 13,
+             10: 19,
+             11: 27,
+             12: 31,
+             13: 39,
+             14: 33,
+             15: 37,
+             16: 23,
+             17: 29,
+             18: 33,
+             19: 43,
+             20: 26,
+             21: 22,
+             22: 51,
+             23: 39,
+             24: 25},
+ '2Thessalonians': {1: 12, 2: 17, 3: 18},
+ '2Timothy': {1: 18, 2: 26, 3: 17, 4: 22},
+ '3John': {1: 14},
+ 'Acts': {1: 26,
+          2: 47,
+          3: 26,
+          4: 37,
+          5: 42,
+          6: 15,
+          7: 60,
+          8: 40,
+          9: 43,
+          10: 48,
+          11: 30,
+          12: 25,
+          13: 52,
+          14: 28,
+          15: 41,
+          16: 40,
+          17: 34,
+          18: 28,
+          19: 41,
+          20: 38,
+          21: 40,
+          22: 30,
+          23: 35,
+          24: 27,
+          25: 27,
+          26: 32,
+          27: 44,
+          28: 31},
+ 'Amos': {1: 15, 2: 16, 3: 15, 4: 13, 5: 27, 6: 14, 7: 17, 8: 14, 9: 15},
+ 'Colossians': {1: 29, 2: 23, 3: 25, 4: 18},
+ 'Daniel': {1: 21,
+            2: 49,
+            3: 30,
+            4: 37,
+            5: 31,
+            6: 28,
+            7: 28,
+            8: 27,
+            9: 27,
+            10: 21,
+            11: 45,
+            12: 13},
+ 'Deuteronomy': {1: 46,
+                 2: 37,
+                 3: 29,
+                 4: 49,
+                 5: 33,
+                 6: 25,
+                 7: 26,
+                 8: 20,
+                 9: 29,
+                 10: 22,
+                 11: 32,
+                 12: 32,
+                 13: 18,
+                 14: 29,
+                 15: 23,
+                 16: 22,
+                 17: 20,
+                 18: 22,
+                 19: 21,
+                 20: 20,
+                 21: 23,
+                 22: 30,
+                 23: 25,
+                 24: 22,
+                 25: 19,
+                 26: 19,
+                 27: 26,
+                 28: 68,
+                 29: 29,
+                 30: 20,
+                 31: 30,
+                 32: 52,
+                 33: 29,
+                 34: 12},
+ 'Ecclesiastes': {1: 18,
+                  2: 26,
+                  3: 22,
+                  4: 16,
+                  5: 20,
+                  6: 12,
+                  7: 29,
+                  8: 17,
+                  9: 18,
+                  10: 20,
+                  11: 10,
+                  12: 14},
+ 'Ephesians': {1: 23, 2: 22, 3: 21, 4: 32, 5: 33, 6: 24},
+ 'Esther': {1: 22,
+            2: 23,
+            3: 15,
+            4: 17,
+            5: 14,
+            6: 14,
+            7: 10,
+            8: 17,
+            9: 32,
+            10: 3},
+ 'Exodus': {1: 22,
+            2: 25,
+            3: 22,
+            4: 31,
+            5: 23,
+            6: 30,
+            7: 25,
+            8: 32,
+            9: 35,
+            10: 29,
+            11: 10,
+            12: 51,
+            13: 22,
+            14: 31,
+            15: 27,
+            16: 36,
+            17: 16,
+            18: 27,
+            19: 25,
+            20: 26,
+            21: 36,
+            22: 31,
+            23: 33,
+            24: 18,
+            25: 40,
+            26: 37,
+            27: 21,
+            28: 43,
+            29: 46,
+            30: 38,
+            31: 18,
+            32: 35,
+            33: 23,
+            34: 35,
+            35: 35,
+            36: 38,
+            37: 29,
+            38: 31,
+            39: 43,
+            40: 38},
+ 'Ezekiel': {1: 28,
+             2: 10,
+             3: 27,
+             4: 17,
+             5: 17,
+             6: 14,
+             7: 27,
+             8: 18,
+             9: 11,
+             10: 22,
+             11: 25,
+             12: 28,
+             13: 23,
+             14: 23,
+             15: 8,
+             16: 63,
+             17: 24,
+             18: 32,
+             19: 14,
+             20: 49,
+             21: 32,
+             22: 31,
+             23: 49,
+             24: 27,
+             25: 17,
+             26: 21,
+             27: 36,
+             28: 26,
+             29: 21,
+             30: 26,
+             31: 18,
+             32: 32,
+             33: 33,
+             34: 31,
+             35: 15,
+             36: 38,
+             37: 28,
+             38: 23,
+             39: 29,
+             40: 49,
+             41: 26,
+             42: 20,
+             43: 27,
+             44: 31,
+             45: 25,
+             46: 24,
+             47: 23,
+             48: 35},
+ 'Ezra': {1: 11,
+          2: 70,
+          3: 13,
+          4: 24,
+          5: 17,
+          6: 22,
+          7: 28,
+          8: 36,
+          9: 15,
+          10: 44},
+ 'Galatians': {1: 24, 2: 21, 3: 29, 4: 31, 5: 26, 6: 18},
+ 'Genesis': {1: 31,
+             2: 25,
+             3: 24,
+             4: 26,
+             5: 32,
+             6: 22,
+             7: 24,
+             8: 22,
+             9: 29,
+             10: 32,
+             11: 32,
+             12: 20,
+             13: 18,
+             14: 24,
+             15: 21,
+             16: 16,
+             17: 27,
+             18: 33,
+             19: 38,
+             20: 18,
+             21: 34,
+             22: 24,
+             23: 20,
+             24: 67,
+             25: 34,
+             26: 35,
+             27: 46,
+             28: 22,
+             29: 35,
+             30: 43,
+             31: 55,
+             32: 32,
+             33: 20,
+             34: 31,
+             35: 29,
+             36: 43,
+             37: 36,
+             38: 30,
+             39: 23,
+             40: 23,
+             41: 57,
+             42: 38,
+             43: 34,
+             44: 34,
+             45: 28,
+             46: 34,
+             47: 31,
+             48: 22,
+             49: 33,
+             50: 26},
+ 'Habakkuk': {1: 17, 2: 20, 3: 19},
+ 'Haggai': {1: 15, 2: 23},
+ 'Hebrews': {1: 14,
+             2: 18,
+             3: 19,
+             4: 16,
+             5: 14,
+             6: 20,
+             7: 28,
+             8: 13,
+             9: 28,
+             10: 39,
+             11: 40,
+             12: 29,
+             13: 25},
+ 'Hosea': {1: 11,
+           2: 23,
+           3: 5,
+           4: 19,
+           5: 15,
+           6: 11,
+           7: 16,
+           8: 14,
+           9: 17,
+           10: 15,
+           11: 12,
+           12: 14,
+           13: 16,
+           14: 9},
+ 'Isaiah': {1: 31,
+            2: 22,
+            3: 26,
+            4: 6,
+            5: 30,
+            6: 13,
+            7: 25,
+            8: 22,
+            9: 21,
+            10: 34,
+            11: 16,
+            12: 6,
+            13: 22,
+            14: 32,
+            15: 9,
+            16: 14,
+            17: 14,
+            18: 7,
+            19: 25,
+            20: 6,
+            21: 17,
+            22: 25,
+            23: 18,
+            24: 23,
+            25: 12,
+            26: 21,
+            27: 13,
+            28: 29,
+            29: 24,
+            30: 33,
+            31: 9,
+            32: 20,
+            33: 24,
+            34: 17,
+            35: 10,
+            36: 22,
+            37: 38,
+            38: 22,
+            39: 8,
+            40: 31,
+            41: 29,
+            42: 25,
+            43: 28,
+            44: 28,
+            45: 25,
+            46: 13,
+            47: 15,
+            48: 22,
+            49: 26,
+            50: 11,
+            51: 23,
+            52: 15,
+            53: 12,
+            54: 17,
+            55: 13,
+            56: 12,
+            57: 21,
+            58: 14,
+            59: 21,
+            60: 22,
+            61: 11,
+            62: 12,
+            63: 19,
+            64: 12,
+            65: 25,
+            66: 24},
+ 'James': {1: 27, 2: 26, 3: 18, 4: 17, 5: 20},
+ 'Jeremiah': {1: 19,
+              2: 37,
+              3: 25,
+              4: 31,
+              5: 31,
+              6: 30,
+              7: 34,
+              8: 22,
+              9: 26,
+              10: 25,
+              11: 23,
+              12: 17,
+              13: 27,
+              14: 22,
+              15: 21,
+              16: 21,
+              17: 27,
+              18: 23,
+              19: 15,
+              20: 18,
+              21: 14,
+              22: 30,
+              23: 40,
+              24: 10,
+              25: 38,
+              26: 24,
+              27: 22,
+              28: 17,
+              29: 32,
+              30: 24,
+              31: 40,
+              32: 44,
+              33: 26,
+              34: 22,
+              35: 19,
+              36: 32,
+              37: 21,
+              38: 28,
+              39: 18,
+              40: 16,
+              41: 18,
+              42: 22,
+              43: 13,
+              44: 30,
+              45: 5,
+              46: 28,
+              47: 7,
+              48: 47,
+              49: 39,
+              50: 46,
+              51: 64,
+              52: 34},
+ 'Job': {1: 22,
+         2: 13,
+         3: 26,
+         4: 21,
+         5: 27,
+         6: 30,
+         7: 21,
+         8: 22,
+         9: 35,
+         10: 22,
+         11: 20,
+         12: 25,
+         13: 28,
+         14: 22,
+         15: 35,
+         16: 22,
+         17: 16,
+         18: 21,
+         19: 29,
+         20: 29,
+         21: 34,
+         22: 30,
+         23: 17,
+         24: 25,
+         25: 6,
+         26: 14,
+         27: 23,
+         28: 28,
+         29: 25,
+         30: 31,
+         31: 40,
+         32: 22,
+         33: 33,
+         34: 37,
+         35: 16,
+         36: 33,
+         37: 24,
+         38: 41,
+         39: 30,
+         40: 24,
+         41: 34,
+         42: 17},
+ 'Joel': {1: 20, 2: 32, 3: 21},
+ 'John': {1: 51,
+          2: 25,
+          3: 36,
+          4: 54,
+          5: 47,
+          6: 71,
+          7: 53,
+          8: 59,
+          9: 41,
+          10: 42,
+          11: 57,
+          12: 50,
+          13: 38,
+          14: 31,
+          15: 27,
+          16: 33,
+          17: 26,
+          18: 40,
+          19: 42,
+          20: 31,
+          21: 25},
+ 'Jonah': {1: 17, 2: 10, 3: 10, 4: 11},
+ 'Joshua': {1: 18,
+            2: 24,
+            3: 17,
+            4: 24,
+            5: 15,
+            6: 27,
+            7: 26,
+            8: 35,
+            9: 27,
+            10: 43,
+            11: 23,
+            12: 24,
+            13: 33,
+            14: 15,
+            15: 63,
+            16: 10,
+            17: 18,
+            18: 28,
+            19: 51,
+            20: 9,
+            21: 45,
+            22: 34,
+            23: 16,
+            24: 33},
+ 'Jude': {1: 25},
+ 'Judges': {1: 36,
+            2: 23,
+            3: 31,
+            4: 24,
+            5: 31,
+            6: 40,
+            7: 25,
+            8: 35,
+            9: 57,
+            10: 18,
+            11: 40,
+            12: 15,
+            13: 25,
+            14: 20,
+            15: 20,
+            16: 31,
+            17: 13,
+            18: 31,
+            19: 30,
+            20: 48,
+            21: 25},
+ 'Lamentations': {1: 22, 2: 22, 3: 66, 4: 22, 5: 22},
+ 'Leviticus': {1: 17,
+               2: 16,
+               3: 17,
+               4: 35,
+               5: 19,
+               6: 30,
+               7: 38,
+               8: 36,
+               9: 24,
+               10: 20,
+               11: 47,
+               12: 8,
+               13: 59,
+               14: 57,
+               15: 33,
+               16: 34,
+               17: 16,
+               18: 30,
+               19: 37,
+               20: 27,
+               21: 24,
+               22: 33,
+               23: 44,
+               24: 23,
+               25: 55,
+               26: 46,
+               27: 34},
+ 'Luke': {1: 80,
+          2: 52,
+          3: 38,
+          4: 44,
+          5: 39,
+          6: 49,
+          7: 50,
+          8: 56,
+          9: 62,
+          10: 42,
+          11: 54,
+          12: 59,
+          13: 35,
+          14: 35,
+          15: 32,
+          16: 31,
+          17: 37,
+          18: 43,
+          19: 48,
+          20: 47,
+          21: 38,
+          22: 71,
+          23: 56,
+          24: 53},
+ 'Malachi': {1: 14, 2: 17, 3: 18, 4: 8},
+ 'Mark': {1: 45,
+          2: 28,
+          3: 35,
+          4: 41,
+          5: 43,
+          6: 56,
+          7: 37,
+          8: 38,
+          9: 50,
+          10: 52,
+          11: 33,
+          12: 44,
+          13: 37,
+          14: 72,
+          15: 47,
+          16: 20},
+ 'Matthew': {1: 25,
+             2: 23,
+             3: 17,
+             4: 25,
+             5: 48,
+             6: 34,
+             7: 29,
+             8: 34,
+             9: 38,
+             10: 42,
+             11: 30,
+             12: 50,
+             13: 58,
+             14: 36,
+             15: 39,
+             16: 28,
+             17: 27,
+             18: 35,
+             19: 30,
+             20: 34,
+             21: 46,
+             22: 46,
+             23: 39,
+             24: 51,
+             25: 46,
+             26: 75,
+             27: 66,
+             28: 20},
+ 'Micah': {1: 16, 2: 13, 3: 12, 4: 13, 5: 15, 6: 16, 7: 20},
+ 'Nahum': {1: 15, 2: 13, 3: 19},
+ 'Nehemiah': {1: 11,
+              2: 20,
+              3: 32,
+              4: 23,
+              5: 19,
+              6: 19,
+              7: 73,
+              8: 18,
+              9: 38,
+              10: 39,
+              11: 36,
+              12: 47,
+              13: 31},
+ 'Numbers': {1: 54,
+             2: 34,
+             3: 51,
+             4: 49,
+             5: 31,
+             6: 27,
+             7: 89,
+             8: 26,
+             9: 23,
+             10: 36,
+             11: 35,
+             12: 16,
+             13: 33,
+             14: 45,
+             15: 41,
+             16: 50,
+             17: 13,
+             18: 32,
+             19: 22,
+             20: 29,
+             21: 35,
+             22: 41,
+             23: 30,
+             24: 25,
+             25: 18,
+             26: 65,
+             27: 23,
+             28: 31,
+             29: 40,
+             30: 16,
+             31: 54,
+             32: 42,
+             33: 56,
+             34: 29,
+             35: 34,
+             36: 13},
+ 'Obadiah': {1: 21},
+ 'Philemon': {1: 25},
+ 'Philippians': {1: 30, 2: 30, 3: 21, 4: 23},
+ 'Proverbs': {1: 33,
+              2: 22,
+              3: 35,
+              4: 27,
+              5: 23,
+              6: 35,
+              7: 27,
+              8: 36,
+              9: 18,
+              10: 32,
+              11: 31,
+              12: 28,
+              13: 25,
+              14: 35,
+              15: 33,
+              16: 33,
+              17: 28,
+              18: 24,
+              19: 29,
+              20: 30,
+              21: 31,
+              22: 29,
+              23: 35,
+              24: 34,
+              25: 28,
+              26: 28,
+              27: 27,
+              28: 28,
+              29: 27,
+              30: 33,
+              31: 31},
+ 'Psalms': {1: 6,
+            2: 12,
+            3: 8,
+            4: 8,
+            5: 12,
+            6: 10,
+            7: 17,
+            8: 9,
+            9: 20,
+            10: 18,
+            11: 7,
+            12: 8,
+            13: 6,
+            14: 7,
+            15: 5,
+            16: 11,
+            17: 15,
+            18: 50,
+            19: 14,
+            20: 9,
+            21: 13,
+            22: 31,
+            23: 6,
+            24: 10,
+            25: 22,
+            26: 12,
+            27: 14,
+            28: 9,
+            29: 11,
+            30: 12,
+            31: 24,
+            32: 11,
+            33: 22,
+            34: 22,
+            35: 28,
+            36: 12,
+            37: 40,
+            38: 22,
+            39: 13,
+            40: 17,
+            41: 13,
+            42: 11,
+            43: 5,
+            44: 26,
+            45: 17,
+            46: 11,
+            47: 9,
+            48: 14,
+            49: 20,
+            50: 23,
+            51: 19,
+            52: 9,
+            53: 6,
+            54: 7,
+            55: 23,
+            56: 13,
+            57: 11,
+            58: 11,
+            59: 17,
+            60: 12,
+            61: 8,
+            62: 12,
+            63: 11,
+            64: 10,
+            65: 13,
+            66: 20,
+            67: 7,
+            68: 35,
+            69: 36,
+            70: 5,
+            71: 24,
+            72: 20,
+            73: 28,
+            74: 23,
+            75: 10,
+            76: 12,
+            77: 20,
+            78: 72,
+            79: 13,
+            80: 19,
+            81: 16,
+            82: 8,
+            83: 18,
+            84: 12,
+            85: 13,
+            86: 17,
+            87: 7,
+            88: 18,
+            89: 52,
+            90: 17,
+            91: 16,
+            92: 15,
+            93: 5,
+            94: 23,
+            95: 11,
+            96: 13,
+            97: 12,
+            98: 9,
+            99: 9,
+            100: 5,
+            101: 8,
+            102: 28,
+            103: 22,
+            104: 35,
+            105: 45,
+            106: 48,
+            107: 43,
+            108: 13,
+            109: 31,
+            110: 7,
+            111: 10,
+            112: 10,
+            113: 9,
+            114: 8,
+            115: 18,
+            116: 19,
+            117: 2,
+            118: 29,
+            119: 176,
+            120: 7,
+            121: 8,
+            122: 9,
+            123: 4,
+            124: 8,
+            125: 5,
+            126: 6,
+            127: 5,
+            128: 6,
+            129: 8,
+            130: 8,
+            131: 3,
+            132: 18,
+            133: 3,
+            134: 3,
+            135: 21,
+            136: 26,
+            137: 9,
+            138: 8,
+            139: 24,
+            140: 13,
+            141: 10,
+            142: 7,
+            143: 12,
+            144: 15,
+            145: 21,
+            146: 10,
+            147: 20,
+            148: 14,
+            149: 9,
+            150: 6},
+ 'Revelation': {1: 20,
+                2: 29,
+                3: 22,
+                4: 11,
+                5: 14,
+                6: 17,
+                7: 17,
+                8: 13,
+                9: 21,
+                10: 11,
+                11: 19,
+                12: 17,
+                13: 18,
+                14: 20,
+                15: 8,
+                16: 21,
+                17: 18,
+                18: 24,
+                19: 21,
+                20: 15,
+                21: 27,
+                22: 21},
+ 'Romans': {1: 32,
+            2: 29,
+            3: 31,
+            4: 25,
+            5: 21,
+            6: 23,
+            7: 25,
+            8: 39,
+            9: 33,
+            10: 21,
+            11: 36,
+            12: 21,
+            13: 14,
+            14: 23,
+            15: 33,
+            16: 27},
+ 'Ruth': {1: 22, 2: 23, 3: 18, 4: 22},
+ 'Song of Songs': {1: 17, 2: 17, 3: 11, 4: 16, 5: 16, 6: 13, 7: 13, 8: 14},
+ 'Titus': {1: 16, 2: 15, 3: 15},
+ 'Zechariah': {1: 21,
+               2: 13,
+               3: 10,
+               4: 14,
+               5: 11,
+               6: 15,
+               7: 14,
+               8: 23,
+               9: 17,
+               10: 12,
+               11: 17,
+               12: 14,
+               13: 9,
+               14: 21},
+ 'Zephaniah': {1: 18, 2: 15, 3: 20}}

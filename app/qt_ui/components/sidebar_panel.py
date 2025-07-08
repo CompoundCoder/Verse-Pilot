@@ -1,5 +1,6 @@
 from PyQt6.QtWidgets import QWidget, QVBoxLayout, QLabel, QListWidget, QListWidgetItem, QAbstractItemView
 from PyQt6.QtCore import Qt, pyqtSignal
+import logging
 
 class SidebarPanel(QWidget):
     """
@@ -44,22 +45,38 @@ class SidebarPanel(QWidget):
         
         self.setLayout(layout)
 
-    def update_verses(self, verses: list[dict]):
+    def update_items(self, verses: list[dict]):
         """
         Updates the list with new verse data.
         """
         self.list_view.clear()
-        for verse_data in verses:
-            item = QListWidgetItem(self._format_verse(verse_data))
-            # Store the raw dictionary in the item
+        # Sort by timestamp, newest first
+        sorted_verses = sorted(verses, key=lambda v: v.get('timestamp', 0), reverse=True)
+
+        for verse_data in sorted_verses:
+            item_text = self._format_verse_display(verse_data)
+            item = QListWidgetItem(item_text)
+            # Store the raw dictionary in the item for later use (e.g., on click)
             item.setData(Qt.ItemDataRole.UserRole, verse_data)
             self.list_view.addItem(item)
+    
+    def remove_item(self, verse_key_to_remove: tuple):
+        """Removes an item from the list based on its verse key."""
+        for i in range(self.list_view.count()):
+            item = self.list_view.item(i)
+            if item:
+                verse_data = item.data(Qt.ItemDataRole.UserRole)
+                item_key = (verse_data.get('book'), verse_data.get('chapter'), verse_data.get('verse'))
+                if item_key == verse_key_to_remove:
+                    self.list_view.takeItem(i)
+                    break # Assume unique keys
 
-    def _format_verse(self, verse_data: dict) -> str:
-        """Formats a verse dict into a user-friendly string."""
+    def _format_verse_display(self, verse_data: dict) -> str:
+        """Formats a verse dict into a user-friendly string for display."""
         book = verse_data.get("book", "Unknown")
-        chapter = verse_data.get("chapter", "?")
-        verse = verse_data.get("verse", "?")
+        chapter = verse_data.get("chapter", 0)
+        verse = verse_data.get("verse", 0)
+        
         return f"{book} {chapter}:{verse}"
 
     def _on_item_double_clicked(self, item: QListWidgetItem):
@@ -73,4 +90,15 @@ class SidebarPanel(QWidget):
         if item:
             verse_data = item.data(Qt.ItemDataRole.UserRole)
             global_pos = self.list_view.mapToGlobal(pos)
-            self.verse_right_clicked.emit(verse_data, global_pos) 
+            self.verse_right_clicked.emit(verse_data, global_pos)
+
+    def add_verse(self, verse_data: dict, is_pending: bool = False):
+        """Adds a verse to the sidebar list. Placeholder implementation."""
+        # This is a stub to prevent crashes. It can be built out later
+        # to visually represent the verse in the list.
+        logging.info(f"[SidebarPanel] Received verse: {verse_data.get('reference')} (Pending: {is_pending})")
+        # For now, we can just add the reference as a simple list item.
+        item = QListWidgetItem(verse_data.get("reference", "Unknown Verse"))
+        if is_pending:
+            item.setForeground(Qt.GlobalColor.gray) # Example: style pending verses
+        self.list_view.insertItem(0, item) 

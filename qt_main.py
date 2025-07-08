@@ -1,5 +1,8 @@
-import sys
 import os
+from dotenv import load_dotenv
+load_dotenv() # Load .env before any other application imports
+
+import sys
 import logging
 from PyQt6.QtWidgets import QApplication
 from PyQt6.QtGui import QIcon
@@ -21,6 +24,17 @@ def main():
     The main entry point for the VersePilot application.
     Initializes the PyQt6 application, loads the main window, and applies styling.
     """
+    # --- Confirm Groq Model ---
+    # This provides immediate feedback in the console about which AI model is active.
+    model_id = os.getenv("GROQ_MODEL_ID")
+    if model_id:
+        print(f"✅ AI DETECTOR: Using Groq model -> {model_id}")
+    else:
+        # This can happen if .env is missing or the key is not set.
+        # The detector will fall back to local, but we should log it.
+        print("⚠️  AI DETECTOR: GROQ_MODEL_ID not found in .env. Online mode will be unavailable.")
+
+    # --- Initialize Application ---
     app = QApplication(sys.argv)
     app.setApplicationName("VersePilot")
     app.setApplicationVersion("1.0")
@@ -36,12 +50,14 @@ def main():
     except Exception as e:
         logging.error(f"Error setting app icon: {e}")
 
-
     load_stylesheet(app)
 
+    # The VerseDetector is no longer instantiated here.
+    # MainWindow now manages its own verse detection logic internally.
     window = MainWindow()
     window.show()
     
+    # --- Start Event Loop ---
     sys.exit(app.exec())
 
 if __name__ == '__main__':

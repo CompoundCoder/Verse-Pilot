@@ -20,19 +20,26 @@ QToolBar {
     spacing: 10px;
 }
 
-QToolButton {
+QToolBar#TopToolBar {
     background-color: transparent;
+    padding: 2px 4px;
+    spacing: 4px;
+    height: 30px;
+}
+
+QToolButton {
+    background: transparent;
+    padding: 4px;
+    border-radius: 8px;
     border: none;
-    border-radius: 4px;
-    padding: 5px;
 }
 
 QToolButton:hover {
-    background-color: #3A3A3D;
+    background-color: rgba(255,255,255,0.08);
 }
 
-QToolButton:pressed, QToolButton:checked {
-    background-color: #2A2A2D; /* Darker, "inset" look */
+QToolButton:checked {
+    background-color: rgba(255,255,255,0.10);
 }
 
 /* BUTTONS */
@@ -118,7 +125,7 @@ QComboBox::drop-down {
 
 /* Style the dropdown list itself */
 QComboBox QAbstractItemView {
-    background-color: #2b2b2b;
+    background-color: #2a2a2a;
     border: 1px solid #444; /* Subtle border for the popup */
     border-radius: 6px;
     color: #EAEAEA;
@@ -190,17 +197,89 @@ QScrollBar::add-page, QScrollBar::sub-page {
     background: none;
 }
 
-/* SPLITTER */
+/* === APPLE-STYLE SPLITTER === */
 QSplitter::handle {
-    background-color: #3A3A3C;
+    background-color: rgba(255,255,255,0.03);
+    width: 3px;
+    border: none;
+    margin: 0;
 }
 
 QSplitter::handle:hover {
-    background-color: #4A4A4D; /* Muted gray hover */
+    background-color: rgba(255,255,255,0.10);
 }
 
-QSplitter::handle:pressed {
-    background-color: #2A2A2D;
+QSplitter#SidebarContainer::handle:vertical {
+    background-color: rgba(255,255,255,0.05);
+    height: 4px;
+}
+QSplitter#SidebarContainer::handle:vertical:hover {
+    background-color: rgba(255,255,255,0.12);
+}
+
+/* --- Sidebar Container Background --- */
+QWidget#SidebarContainer {
+    background-color: #121214;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 0px;
+    border: 1px solid rgba(255,255,255,0.04);
+    padding: 6px;
+}
+
+/* --- Section Titles (Queue / History) --- */
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    color: #E0E0E0;
+    font-weight: 600;
+    font-size: 13px;
+    margin: 6px 12px;
+}
+
+/* --- Queue / History Panel Containers --- */
+QGroupBox {
+    background-color: #1A1A1C;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.035);
+    margin: 8px 12px;
+    padding: 12px;
+}
+
+/* --- List Styling (Items) --- */
+QListWidget {
+    background-color: transparent;
+    border: none;
+}
+QListWidget::item {
+    padding: 6px 10px;
+    border-radius: 6px;
+}
+QListWidget::item:selected {
+    background-color: #0A84FF;
+    color: white;
+}
+QListWidget::item:hover {
+    background-color: #2A2A2A;
+}
+
+/* === Center Preview Panel === */
+QLabel#ContentTitle {
+    font-size: 16px;
+    font-weight: 600;
+    color: #EAEAEA;
+    padding-bottom: 4px;
+}
+
+QLabel#previewLabel {
+    background-color: #121212;
+    border: none;
+    border-radius: 12px;
+    padding: 0px;
+}
+
+/* === Sidebar background slightly darker === */
+QWidget#SidebarSplitter {
+    background-color: #181818;
 }
 
 /* CONTEXT MENUS */
@@ -225,4 +304,77 @@ QMenu::separator {
     height: 1px;
     background-color: #444;
     margin: 4px 0px;
+}
+
+QComboBox::down-arrow {
+    image: url(lucide/icons/chevron-down.svg);
+    width: 14px;
+    height: 14px;
+}
+
+QLabel#AIStatusDot {
+    border: none;
+    margin-right: 4px;
+}
+
+QLabel#StatusLabel {
+    color: #888;
+    font-size: 12px;
+}
+
+QComboBox#MicDropdown {
+    background-color: #2a2a2a;
+    border-radius: 4px;
+    padding: 2px 8px;
+    border: 1px solid #3a3a3a;
+    color: #DADADA;
+    font-size: 12px;
+    min-height: 20px;
+    max-width: 180px;
+    combobox-popup: 0;
+}
+QComboBox QAbstractItemView {
+    background-color: #2a2a2a;
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 12px;
+    color: #DADADA;
+    selection-background-color: #3a3a3a;
+}
+
+QComboBox::item {
+    /* text-overflow: ellipsis; */ /* This property is not supported in Qt's QSS */
+}
+
+/* Make the top-level window background match the theme */
+QMainWindow {
+    background-color: #1e1e1e;
+}
+
+/* === BOTTOM TOOLBAR === */
+QWidget#BottomToolbar {
+    padding: 4px 12px;
+    background: transparent;
+}
+
+/* === MAIN CONTENT AREA === */
+QWidget#MainContent {
+    /* ... existing code ... */
+}
+
+QCheckBox {
+    font-size: 13px;
+    color: #DADADA;
+}
+QCheckBox::indicator {
+    width: 14px;
+    height: 14px;
+    background-color: #2A2A2A;
+    border: 1px solid #555;
+    border-radius: 4px;
+}
+QCheckBox::indicator:checked {
+    background-color: #0A84FF;
+    border: 1px solid #0A84FF;
+    image: url(app/qt_ui/resources/icons/check.svg);
 } 

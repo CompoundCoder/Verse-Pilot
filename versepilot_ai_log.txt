@@ -1072,3 +1072,146 @@ RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
 ---
 TRANSCRIBED: Turn to Genesis chapter 2 verse 3.
 RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: This is a test I am going to talk about turning in our books to John chapter 3 verse 16.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: This is a test I am going to talk about turning in our books to John chapter 3 verse 16.
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: . . . . . . . .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: I will suggest Genesis chapter three verse two.
+RAW_RESPONSE:  {"book": "Genesis", "chapter": 3, "verse": 2}
+---
+TRANSCRIBED: I will suggest Genesis chapter 3 verse 2.
+RAW_RESPONSE:  {"book": "Genesis", "chapter": 3, "verse": 2}
+---
+TRANSCRIBED: Genesis 3, verse 1, let's turn to Genesis 3, verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: Genesis 3 verse 1, let's turn to Genesis 3 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: Genesis 3 verse 1, let's turn to Genesis 3 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+---
+TRANSCRIBED: This is a test. I am going to be talking about turning in our books to Jeremiah 29 verse a lot of.
+RAW_RESPONSE:  [{"book": "Jeremiah", "chapter": 29, "verse": 1}]
+---
+TRANSCRIBED: This is a test. I am going to be talking about turning in our books to Jeremiah 29 verse a lot of.
+RAW_RESPONSE:  [{"book": "Jeremiah", "chapter": 29, "verse": 1}]
+---
+TRANSCRIBED: That's turning our Bible so Genesis 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: That's turning our Bible so Genesis 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: That's turning our Bible so Genesis 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: Let's turn our Bible so Genesis 2 verse 1.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: for Discord where the community has a really financial success risks improve more thanmoropl contains moreive ... you fall
+RAW_RESPONSE:  [{"book": "Proverbs", "chapter": 23, "verse": 4}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: Let's turn to Genesis 1 verse 7.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 1, "verse": 7}]
+---
+TRANSCRIBED: Let's turn our rivals to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Let's turn our rivals to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Let's turn our rivals to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Let's turn our rivals to Genesis chapter 2 verse 3.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 2, "verse": 3}]
+---
+TRANSCRIBED: Alright, everyone turning your Bibles to... Alright, everyone turning your Bibles to Genesis chapter 3 verse 2.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 2}]
+---
+TRANSCRIBED: All right, now let's turn in our Bibles 2, Genesis 3, verse 4.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 4}]
+---
+TRANSCRIBED: .
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: and and tha t bc raided
+RAW_RESPONSE:  [{"book": "Matthew", "chapter": 28, "verse": 19}]
+---
+TRANSCRIBED: It reminds me of a cappella, doing it. I would like to thank Larry Musk, who wanted to pick links for which Ade we are all Arabs, and in a episode on this video today. I want discuss this content with our boys, from tabs, we're all in a discussion like that. Let's take a look at this type of story, anything I don't wanna say with more people will do it,
+RAW_RESPONSE:  Based on the given context, there is no direct Bible verse reference that can be extracted. However, if we interpret the phrase "a episode on this video today" as referring to a specific Bible episode or story, I would suggest the following verses as potential matches:
+
+1. [Genesis 11:1-9] - The Tower of Babel
+2. [Exodus 3:1-4:17] - Moses and the Burning Bush
+3. [Matthew 5:1-7:29] - The Sermon on the Mount
+4. [John 1:1-18] - The Prologue of John
+5. [Acts 2:1-41] - Pentecost and the Coming of the Holy Spirit
+
+Here is an example of how I would return these verses as JSON objects:
+
+```json
+[
+    { "book": "Genesis", "chapter": 11, "verse": 1 },
+    { "book": "Exodus", "chapter": 3, "verse": 1 },
+    { "book": "Matthew", "chapter": 5, "verse": 1 },
+    { "book": "John", "chapter": 1, "verse": 1 },
+    { "book": "Acts", "chapter": 2, "verse": 1 }
+]
+```
+---
+TRANSCRIBED: Near the palace
+RAW_RESPONSE:  [{"book": "Ezra", "chapter": 7, "verse": 2]}
+---
+TRANSCRIBED: hoeeasterly shopterry Greek
+RAW_RESPONSE:  [{"book": "John", "chapter": 3, "verse": 16}]
+---
+TRANSCRIBED: I
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: things,
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: I go over there. When it is there, they are.
+RAW_RESPONSE:  [{"book": "Genesis", "chapter": 3, "verse": 1}]
+
+Reference: Genesis 3:1 - Now the serpent was more crafty than any of the wild animals the LORD God had made. He said to the woman, "Did God really say, 'You must not eat from any tree in the garden'?"
+---
+TRANSCRIBED: on F
+RAW_RESPONSE:  [{"book": "John", "chapter": 1, "verse": 1}]
+---
+TRANSCRIBED: it glad. again.
+RAW_RESPONSE:  [{"book": "John", "chapter": 21, "verse": 7}]

@@ -1,6 +1,7 @@
 import json
 import os
 import logging
+from typing import Optional
 
 # Global Bible dictionary, structured for efficient lookups.
 # Format: { "Genesis": { "1": { "1": "Verse text..." } } }
@@ -68,13 +69,17 @@ def load_bible(path="assets/data/kjv_nested.json"):
         logging.error(f"❌ A critical error occurred during Bible loading: {e}", exc_info=True)
         BIBLE_DATA = {}
 
-def get_verse(book: str, chapter: int, verse: int) -> str:
+def get_verse(book: str, chapter: int, verse: int) -> Optional[str]:
     """
     Fetches a single verse by reference from the in-memory Bible data.
     This function performs a case-insensitive lookup for the book name.
     """
     if not BIBLE_DATA:
         return "⚠️ Bible not loaded. Please check logs."
+
+    if not isinstance(book, str):
+        logging.warning(f"⚠️ Invalid 'book' argument: expected a string, but got {type(book).__name__}. Cannot perform lookup.")
+        return None
 
     try:
         # Find the correct book key with a case-insensitive search.
