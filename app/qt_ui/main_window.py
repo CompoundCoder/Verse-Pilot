@@ -20,13 +20,16 @@ from app.core.bible import bible_lookup
 from app.core.bible.constants import BOOK_TO_NUM_CHAPTERS
 from app.core.rendering import slide_renderer
 from app.qt_ui.components.sidebar_panel import SidebarPanel
-from app.qt_ui.settings_screen import SettingsScreen
+from app.qt_ui.settings_window import SettingsWindow
 from app.qt_ui.verse_confirmation_popup import VerseConfirmationPopup
 from app.qt_ui.components.user_confirm_popup import UserConfirmPopup
 from app.qt_ui.components.edit_verse_popup import EditVersePopup
 from app.qt_ui.resources.icon_provider import get_icon
 from app.qt_ui.components.mic_ripple_widget import MicRippleWidget
 from app.qt_ui.components.upward_combo_box import UpwardComboBox
+# --- Dev Tools (can be safely removed) ---
+from app.qt_ui.components.dev_input_window import DevInputWindow
+# -----------------------------------------
 
 # --- Placeholder for verse data parsing ---
 def parse_verse_data(verse_data: dict) -> tuple:
@@ -41,14 +44,19 @@ class MainWindow(QMainWindow):
     """
     The main application window for the PyQt6 version of VersePilot.
     """
-    def __init__(self, parent=None):
+    def __init__(self, ai_available: bool, parent=None):
         super().__init__(parent)
         self.settings = get_settings() # Ensure settings are loaded first
+        self.ai_available = ai_available
         self.setWindowTitle("VersePilot")
         self.setGeometry(100, 100, 900, 700)
 
         # --- Child Windows ---
         self.settings_window = None
+        # --- Dev Tools (can be safely removed) ---
+        self.dev_input_window = DevInputWindow(self)
+        self.dev_input_window.text_submitted.connect(self._handle_dev_input)
+        # -----------------------------------------
 
         # --- State and Core Logic ---
         self.mic_devices = {}
@@ -59,7 +67,11 @@ class MainWindow(QMainWindow):
         self.current_verse_data = None # Track the currently displayed verse
         
         self.verse_queue = queue.Queue()
-        self.verse_listener = VerseListener()
+        self.verse_listener = VerseListener(
+            ai_available=self.ai_available,
+            gemini_api_key=os.getenv("GEMINI_API_KEY"),
+            gemini_model_id=os.getenv("GEMINI_MODEL_ID")
+        )
         self.verse_listener.verse_needs_confirmation.connect(self._show_confirmation_popup)
         
         # --- UI State for AI Status ---
@@ -72,6 +84,9 @@ class MainWindow(QMainWindow):
         self.main_layout = QVBoxLayout(self.central_widget)
         self.main_layout.setContentsMargins(0,0,0,0)
         self.main_layout.setSpacing(0)
+
+        # --- Actions ---
+        self._create_actions()
 
         # --- Menu Bar & Toolbar ---
         self._setup_menu_bar()
@@ -98,6 +113,13 @@ class MainWindow(QMainWindow):
         # --- AI Status Monitor (Removed) ---
         # self._setup_ai_monitor()
 
+    def _create_actions(self):
+        """Creates shared actions for menus and toolbars."""
+        self.preferences_action = QAction(get_icon("gear"), "Preferences...", self)
+        self.preferences_action.setShortcut("Command+,")
+        self.preferences_action.setMenuRole(QAction.MenuRole.PreferencesRole)
+        self.preferences_action.triggered.connect(self._open_settings_dialog)
+
     def _setup_menu_bar(self):
         """Creates the main application menu bar."""
         menu_bar = self.menuBar()
@@ -112,10 +134,8 @@ class MainWindow(QMainWindow):
 
         app_menu.addSeparator()
 
-        settings_action = QAction("Settings...", self)
-        settings_action.setIcon(get_icon("gear"))
-        settings_action.triggered.connect(self._open_settings_window)
-        app_menu.addAction(settings_action)
+        # This action is handled by _create_actions now, just add it.
+        app_menu.addAction(self.preferences_action)
 
         app_menu.addSeparator()
 
@@ -123,6 +143,15 @@ class MainWindow(QMainWindow):
         quit_action.setShortcut("Command+Q")
         quit_action.triggered.connect(self.close)
         app_menu.addAction(quit_action)
+
+        # --- Dev Tools (can be safely removed) ---
+        dev_menu = menu_bar.addMenu("Developer")
+        manual_input_action = QAction("Manual Text Input...", self)
+        manual_input_action.setShortcut("Ctrl+Shift+T")
+        manual_input_action.triggered.connect(self.dev_input_window.show)
+        dev_menu.addAction(manual_input_action)
+        # -----------------------------------------
+
 
     def _setup_toolbar(self):
         """Creates and configures the main application toolbar."""
@@ -147,11 +176,9 @@ class MainWindow(QMainWindow):
         spacer.setSizePolicy(QSizePolicy.Policy.Expanding, QSizePolicy.Policy.Preferred)
         self.toolbar.addWidget(spacer)
 
-        # Settings Action
-        self.settings_action = QAction(get_icon("gear"), "Settings", self)
-        self.settings_action.triggered.connect(self._open_settings_window)
-        self.settings_action.setToolTip("Open Settings")
-        self.toolbar.addAction(self.settings_action)
+        # Use the shared preferences action
+        self.toolbar.addAction(self.preferences_action)
+        self.preferences_action.setToolTip("Open Preferences")
 
     def _setup_sidebar(self):
         """Sets up the sidebar with resizable Queue and History panels."""
@@ -274,6 +301,14 @@ class MainWindow(QMainWindow):
         self.splitter.addWidget(content_area)
         self.splitter.setSizes([250, 650])
         self._populate_mic_devices()
+        self._apply_ai_availability()
+
+    def _handle_dev_input(self, text: str):
+        """Processes text submitted from the developer input window."""
+        if not text.strip():
+            return
+        logging.info(f"[DevTool] Manually processing transcript: '{text}'")
+        self.verse_listener.process_manual_transcript(text)
 
     def _populate_mic_devices(self):
         """Queries sounddevice for mics and populates the dropdown."""
@@ -300,6 +335,18 @@ class MainWindow(QMainWindow):
             logging.error(f"Could not query audio devices: {e}")
             self.status_label.setText("Error: Audio devices not found.")
             self.mic_dropdown.setPlaceholderText("Error")
+
+    def _apply_ai_availability(self):
+        """Disables AI-dependent UI if credentials are not available."""
+        if not self.ai_available:
+            self.mic_ripple_widget.setEnabled(False)
+            self.mic_ripple_widget.set_status(False, "AI_Error")
+            # Override the tooltip to provide a clear explanation
+            self.mic_ripple_widget.setToolTip("AI features unavailable. Please check your API key settings.")
+            # Optionally, disable the mic dropdown as well
+            self.mic_dropdown.setEnabled(False)
+            self.status_label.setText("AI Unavailable")
+
 
     def _apply_initial_settings(self):
         """Connects signals and applies settings on startup."""
@@ -496,91 +543,109 @@ class MainWindow(QMainWindow):
         """Utility to refresh both sidebars."""
         self.history_panel.update_items(self.live_history)
 
+    def get_all_verses_from_sidebar(self) -> list[dict]:
+        """Utility to get all unique verses from both queue and history panels."""
+        all_verses = {} # Use dict to handle duplicates by key
+        
+        # We need to access the internal list of verses from each panel
+        # This assumes the panels store verses in a 'verses' attribute.
+        queue_verses = self.queue_panel.verses if hasattr(self.queue_panel, 'verses') else []
+        history_verses = self.history_panel.verses if hasattr(self.history_panel, 'verses') else []
+
+        for v in queue_verses + history_verses:
+            key = self._get_verse_key(v)
+            if key not in all_verses:
+                all_verses[key] = v
+        
+        return list(all_verses.values())
+
     def closeEvent(self, event):
-        """Saves settings and stops background threads before closing."""
-        self.settings.sidebar_split_sizes = self.sidebar_splitter.sizes()
-        self.settings.save()
-        logging.info("Settings saved on exit.")
+        """Ensures graceful shutdown of background services on window close."""
+        logging.info("Close event received. Shutting down background services...")
+        self.verse_listener.stop_listening()
+        logging.info("Services stopped. Closing application.")
         event.accept()
 
     def _show_about_dialog(self):
         """Displays a simple 'About' dialog."""
         QMessageBox.about(self, "About VersePilot",
-                          "VersePilot: AI-Powered Verse Detection\n\n"
-                          "Version 1.0\n\n"
-                          "© 2024 Trevor Powers. All rights reserved.")
+                          "VersePilot: Real-time verse detection and display.")
 
-    def _open_settings_window(self):
-        """Opens the settings window."""
-        if not self.settings_window or not self.settings_window.isVisible():
-            self.settings_window = SettingsScreen(self)
-            self.settings_window.show()
+    def _open_settings_dialog(self):
+        """Opens the main settings/preferences dialog."""
+        # Use a single instance of the settings window
+        if not hasattr(self, 'settings_dialog') or not self.settings_dialog:
+            self.settings_dialog = SettingsWindow(self)
+        
+        # Show the dialog modally
+        self.settings_dialog.exec()
 
     def _show_ai_waiting_state(self):
-        """Displays a message on the canvas while waiting for the AI."""
-        self.graphics_scene.clear()
-        self.current_verse_data = None # Clear current verse to allow re-display
-        # Add a placeholder or message here if desired
-        # For now, it just clears the screen.
+        """Visual feedback when waiting for AI processing."""
+        # This method can be expanded for more complex visual state handling.
+        self.mic_ripple_widget.set_status(True, "AI_Waiting")
+
 
     def _show_confirmation_popup(self, verse_data: dict):
         """Shows the custom confirmation popup for an unverified verse."""
         
         def on_user_decision(confirmed: bool):
+            # Pass the result and the original verse data to the handler
             self._handle_confirmation_result(confirmed, verse_data)
 
-        # It's critical to store the popup as an instance variable,
-        # otherwise it might be garbage collected before it's shown.
-        self.confirmation_dialog = UserConfirmPopup(
-            book=verse_data['book'],
-            chapter=verse_data['chapter'],
-            verse=verse_data['verse'],
-            callback=on_user_decision,
-            parent=self
-        )
-        self.confirmation_dialog.show()
+        # Create and show the popup
+        popup = UserConfirmPopup(verse_data, on_user_decision, self)
+        popup.show()
+        # Keep a reference to prevent garbage collection
+        self.confirmation_buffer.append(popup)
 
     def _handle_confirmation_result(self, confirmed: bool, verse_data: dict):
-        """Handles the callback from the UserConfirmPopup."""
+        """
+        Handles the user's decision from the confirmation popup.
+        """
+        # Remove the popup from the buffer
+        self.confirmation_buffer = [p for p in self.confirmation_buffer if p.verse_data != verse_data]
+
         verse_key = self._get_verse_key(verse_data)
         if confirmed:
-            logging.info(f"User confirmed invalid verse: {verse_key}. Displaying anyway.")
+            logging.info(f"User approved displaying potentially invalid verse: {verse_key}")
+            # Mark as confirmed and process
+            verse_data['validation_status'] = 'user_confirmed'
             self._process_and_render_verse(verse_data)
         else:
-            logging.info(f"User rejected invalid verse: {verse_key}.")
-            # Optionally, you could add this to a "rejected" list
-            # to prevent it from appearing again.
+            logging.info(f"User rejected displaying potentially invalid verse: {verse_key}")
+            # Optionally, add to a rejected list to prevent re-prompting for a while
             self.rejected_keys.add(verse_key)
 
+
     def _display_verse(self, verse_data: dict):
-        book, chap, verse_num = parse_verse_data(verse_data)
-        print(f"🧪 Parsed Verse: {book} {chap}:{verse_num}")
+        """Renders the selected verse and updates the preview."""
+        try:
+            book = verse_data.get('book')
+            chapter = verse_data.get('chapter')
+            verse = verse_data.get('verse')
+            
+            if not all([book, chapter, verse]):
+                logging.warning(f"Attempted to display incomplete verse data: {verse_data}")
+                return
 
-        pixmap = slide_renderer.render_slide(book, chap, verse_num, self.settings.theme)
-        if not pixmap or pixmap.isNull():
-            print("❌ SlideRenderer returned NULL QPixmap!")
-            return
+            # The new render_slide function returns a QPixmap directly
+            pixmap = slide_renderer.render_slide(book, chapter, verse, theme="dark")
+            
+            if pixmap:
+                self.graphics_scene.clear()
+                self.graphics_scene.addPixmap(pixmap)
+                self.graphics_view.fitInView(self.graphics_scene.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
+            else:
+                logging.error("Failed to generate pixmap for verse.")
 
-        self.graphics_scene.clear()
-
-        bg = QGraphicsRectItem(0, 0, 1280, 720)
-        bg.setBrush(QBrush(QColor("black")))
-        bg.setPen(QPen(Qt.PenStyle.NoPen))
-        self.graphics_scene.addItem(bg)
-
-        item = QGraphicsPixmapItem(pixmap)
-        item.setPos(0, 0)
-        item.setOpacity(1.0)
-        self.graphics_scene.addItem(item)
-
-        self.graphics_scene.setSceneRect(0, 0, 1280, 720)
-        self.graphics_view.fitInView(self.graphics_scene.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
-        self.graphics_view.viewport().update()
+        except Exception as e:
+            logging.error(f"Failed to render verse slide: {e}", exc_info=True)
 
     def resizeEvent(self, event):
-        """Handle window resize to maintain aspect ratio of the graphics view."""
-        if event: # Check if the event is not None
-            super().resizeEvent(event)
-        # Ensure the scene contents fit, keeping a 16:9 aspect ratio
-        if hasattr(self, 'graphics_view'):
-            self.graphics_view.fitInView(self.graphics_scene.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio) 
+        """Handle window resize to maintain aspect ratio of the content."""
+        super().resizeEvent(event)
+        self.graphics_view.fitInView(self.graphics_scene.sceneRect(), Qt.AspectRatioMode.KeepAspectRatio)
+        
+        # Trigger any layout adjustments needed on resize
+        self.central_widget.updateGeometry() 

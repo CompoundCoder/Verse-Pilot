@@ -50,7 +50,7 @@ class VerseListener(QObject):
     # Define a signal that will carry a dictionary (the verse data)
     verse_needs_confirmation = pyqtSignal(dict)
 
-    def __init__(self):
+    def __init__(self, ai_available: bool = False, gemini_api_key: str = None, gemini_model_id: str = None):
         super().__init__()
         self._listener_thread: Optional[threading.Thread] = None
         self._transcription_thread: Optional[threading.Thread] = None
@@ -59,6 +59,11 @@ class VerseListener(QObject):
         self.verse_queue: Optional[queue.Queue] = None
         self.input_device_index: Optional[int] = None
         
+        # --- AI Configuration ---
+        self.ai_available = ai_available
+        self.gemini_api_key = gemini_api_key
+        self.gemini_model_id = gemini_model_id
+
         # This will hold the audio stream object for safe shutdown.
         self._stream: Optional[sd.InputStream] = None
         
@@ -73,6 +78,23 @@ class VerseListener(QObject):
         self.vosk_model = self._load_vosk_model()
         self.whisper_model = self._load_whisper_model()
         self.last_processed_transcript = None
+
+    def process_manual_transcript(self, transcript: str):
+        """
+        Manually triggers the verse detection pipeline with a given text transcript.
+        This bypasses the audio-to-text stage and is useful for testing.
+        """
+        if self._transcription_thread and self._transcription_thread.is_alive():
+            logging.warning("[Listener] A transcription is already in progress. Ignoring manual submission.")
+            return
+        
+        # We run this in a thread to keep the UI from freezing while the AI runs.
+        self._transcription_thread = threading.Thread(
+            target=self._process_transcript_logic,
+            args=(transcript,),
+            name="ManualTranscriptionThread"
+        )
+        self._transcription_thread.start()
 
     def _load_vosk_model(self):
         if not os.path.exists(VOSK_MODEL_PATH):
@@ -119,8 +141,14 @@ class VerseListener(QObject):
         self._audio_queue.put(None)
         if self._listener_thread and self._listener_thread.is_alive():
             self._listener_thread.join(timeout=5)
+        
+        if self._transcription_thread and self._transcription_thread.is_alive():
+            logging.info("Waiting for active transcription to finish before shutdown...")
+            self._transcription_thread.join(timeout=10)
+
         self._stream = None
         self._listener_thread = None
+        self._transcription_thread = None
         logging.info("Verse listener stopped.")
 
     def is_listening(self) -> bool:
@@ -193,6 +221,60 @@ class VerseListener(QObject):
             "explanation": candidate.explanation,
         }
 
+    def _process_transcript_logic(self, transcript: str):
+        """
+        The core logic for processing a transcript, shared by both audio and manual input.
+        """
+        # --- FIX: Prevent re-processing the same utterance ---
+        if transcript and transcript == self.last_processed_transcript:
+            logging.warning(f"[Listener] Skipping duplicate transcript: \"{transcript}\"")
+            return
+        self.last_processed_transcript = transcript
+        # --- END FIX ---
+        
+        print(f"📝 [Listener] Transcript ready for processing: \"{transcript}\"")
+
+        # --- Start New Detection Pipeline ---
+        # 1. Fast, local extraction
+        candidate = FastVerseExtractor.extract_candidate(transcript)
+
+        if candidate:
+            # Always trust the fast extractor for now
+            self.verse_queue.put(self._format_candidate_for_queue(candidate))
+            verse_buffer.add_candidate(candidate)
+        elif self.ai_available:
+            # 2. Slow, cloud-based validation if fast fails
+            last_book, last_chapter = get_last_confirmed()
+            slow_candidates = validate_with_gemini(
+                transcript, 
+                api_key=self.gemini_api_key, 
+                model_id=self.gemini_model_id,
+                last_book=last_book, 
+                last_chapter=last_chapter
+            )
+
+            # If no verse found, do nothing
+            if not slow_candidates:
+                logging.info(f"[Listener] Slow validator found no candidates in: \"{transcript}\"")
+                return
+
+            # 3. Queue the verse for the UI
+            logging.info(f"✅ [Listener] Slow validator returned {len(slow_candidates)} candidates. Queueing...")
+            for candidate in slow_candidates:
+                if candidate.book not in BOOK_TO_NUM_CHAPTERS: continue
+                if candidate.chapter > BOOK_TO_NUM_CHAPTERS[candidate.book]: continue
+                if candidate.verse > BOOK_VERSE_COUNTS[candidate.book].get(candidate.chapter, 0): continue
+
+                set_last_confirmed(candidate.book, candidate.chapter)
+                verse_buffer.add_candidate(candidate)
+                
+                if candidate.review_required:
+                    logging.info(f"Verse requires confirmation: {candidate.book} {candidate.chapter}:{candidate.verse}")
+                    self.verse_needs_confirmation.emit(self._format_candidate_for_queue(candidate))
+                else:
+                    self.verse_queue.put(self._format_candidate_for_queue(candidate))
+
+
     def _transcribe_and_process(self, audio_data_bytes, confidence: float):
         """
         Transcribes audio and runs it through the fast/slow detection pipeline.
@@ -208,79 +290,8 @@ class VerseListener(QObject):
             result = self.whisper_model.transcribe(full_audio_fp32, language="en")
             transcript = result.get("text", "").strip()
 
-            # Deduplication memory
-            if not hasattr(self, "_recent_transcripts"):
-                self._recent_transcripts = []
-
-            FILLER_PHRASES = {
-                "let's see here", "uh", "huh", "okay", "", ".", "terminal", "all this"
-            }
-
-            # Normalize transcript
-            normalized = transcript.strip().lower()
-
-            # 1. Check if it's a duplicate
-            if normalized in self._recent_transcripts:
-                logging.warning(f"[Listener] Skipping duplicate transcript: \"{transcript}\"")
-                return
-
-            # 2. Check if it's a filler or junk
-            if normalized in FILLER_PHRASES:
-                logging.info(f"[Listener] Skipping filler phrase: \"{transcript}\"")
-                return
-
-            # 3. Check if it's too short and not meaningful
-            if len(normalized.split()) < 5 and not any(book.lower() in normalized for book in BIBLE_BOOKS):
-                logging.info(f"[Listener] Skipping short transcript: \"{transcript}\"")
-                return
-
-            # Keep recent memory (max 5)
-            self._recent_transcripts.append(normalized)
-            if len(self._recent_transcripts) > 5:
-                self._recent_transcripts.pop(0)
-
-            # --- FIX: Prevent re-processing the same utterance ---
-            if transcript and transcript == self.last_processed_transcript:
-                logging.warning(f"[Listener] Skipping duplicate transcript: \"{transcript}\"")
-                return
-            self.last_processed_transcript = transcript
-            # --- END FIX ---
-            
-            print(f"📝 [Listener] Transcript ready for processing: \"{transcript}\"")
-
-            # --- Start New Detection Pipeline ---
-            # 1. Fast, local extraction
-            candidate = FastVerseExtractor.extract_candidate(transcript)
-
-            if candidate:
-                # Always trust the fast extractor for now
-                self.verse_queue.put(self._format_candidate_for_queue(candidate))
-                verse_buffer.add_candidate(candidate)
-            else:
-                # 2. Slow, cloud-based validation if fast fails
-                last_book, last_chapter = get_last_confirmed()
-                slow_candidates = validate_with_gemini(transcript, last_book=last_book, last_chapter=last_chapter)
-
-                # If no verse found, do nothing
-                if not slow_candidates:
-                    logging.info(f"[Listener] Slow validator found no candidates in: \"{transcript}\"")
-                    return
-
-                # 3. Queue the verse for the UI
-                logging.info(f"✅ [Listener] Slow validator returned {len(slow_candidates)} candidates. Queueing...")
-                for candidate in slow_candidates:
-                    if candidate.book not in BOOK_TO_NUM_CHAPTERS: continue
-                    if candidate.chapter > BOOK_TO_NUM_CHAPTERS[candidate.book]: continue
-                    if candidate.verse > BOOK_VERSE_COUNTS[candidate.book].get(candidate.chapter, 0): continue
-
-                    set_last_confirmed(candidate.book, candidate.chapter)
-                    verse_buffer.add_candidate(candidate)
-                    
-                    if candidate.review_required:
-                        logging.info(f"Verse requires confirmation: {candidate.book} {candidate.chapter}:{candidate.verse}")
-                        self.verse_needs_confirmation.emit(self._format_candidate_for_queue(candidate))
-                    else:
-                        self.verse_queue.put(self._format_candidate_for_queue(candidate))
+            # The core processing logic is now in a separate method
+            self._process_transcript_logic(transcript)
 
         except Exception as e:
             logging.error(f"Error in transcription/processing: {e}", exc_info=True)

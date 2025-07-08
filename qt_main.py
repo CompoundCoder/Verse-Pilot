@@ -24,15 +24,17 @@ def main():
     The main entry point for the VersePilot application.
     Initializes the PyQt6 application, loads the main window, and applies styling.
     """
-    # --- Confirm Groq Model ---
-    # This provides immediate feedback in the console about which AI model is active.
-    model_id = os.getenv("GROQ_MODEL_ID")
-    if model_id:
-        print(f"✅ AI DETECTOR: Using Groq model -> {model_id}")
+    # --- Confirm AI Backend ---
+    # This provides immediate feedback about which AI model is active.
+    GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+    GEMINI_MODEL_ID = os.getenv("GEMINI_MODEL_ID")
+
+    if GEMINI_API_KEY and GEMINI_MODEL_ID:
+        print(f"✅ AI DETECTOR: Using Gemini model -> {GEMINI_MODEL_ID}")
+        ai_available = True
     else:
-        # This can happen if .env is missing or the key is not set.
-        # The detector will fall back to local, but we should log it.
-        print("⚠️  AI DETECTOR: GROQ_MODEL_ID not found in .env. Online mode will be unavailable.")
+        print("❌ Gemini API key or model ID missing. Disabling AI features.")
+        ai_available = False
 
     # --- Initialize Application ---
     app = QApplication(sys.argv)
@@ -54,7 +56,7 @@ def main():
 
     # The VerseDetector is no longer instantiated here.
     # MainWindow now manages its own verse detection logic internally.
-    window = MainWindow()
+    window = MainWindow(ai_available=ai_available)
     window.show()
     
     # --- Start Event Loop ---

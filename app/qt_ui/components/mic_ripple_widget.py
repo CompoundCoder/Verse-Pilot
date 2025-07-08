@@ -1,6 +1,6 @@
 import random
 from PyQt6.QtWidgets import QWidget
-from PyQt6.QtGui import QPainter, QColor, QPen
+from PyQt6.QtGui import QPainter, QColor, QPen, QFont
 from PyQt6.QtCore import Qt, QSize, QTimer, pyqtSignal
 from app.qt_ui.resources.icon_provider import get_icon
 
@@ -15,6 +15,7 @@ class MicRippleWidget(QWidget):
         super().__init__(parent)
         self.is_listening = False
         self.is_hovering = False
+        self.label_text = ""
         
         # --- Animation State ---
         self.ripple_radii = []
@@ -31,6 +32,39 @@ class MicRippleWidget(QWidget):
         self.setCursor(Qt.CursorShape.PointingHandCursor)
         self.setToolTip("Click to start or stop listening")
         # NO LAYOUT OR LABELS - This is a custom-painted widget
+
+    def set_listening(self, listening: bool):
+        """Sets the listening state and controls the animation."""
+        if self.is_listening != listening:
+            self.is_listening = listening
+            if self.is_listening:
+                self.start_animation()
+            else:
+                self.stop_animation()
+            self.update()
+
+    def set_label(self, text: str):
+        """Sets the text for the status label."""
+        self.label_text = text
+        self.update()
+
+    def set_status(self, listening: bool, status_type: str = ""):
+        """Centralized API to update mic visuals and label text."""
+        self.set_listening(listening)
+
+        if status_type == "AI_Error":
+            # TODO: Implement a distinct set_error method if special styling is needed.
+            self.set_label("AI features unavailable. Check settings.")
+        elif status_type == "Idle":
+            self.set_label("Waiting for input...")
+        elif status_type == "Live":
+            self.set_label("Listening...")
+        elif status_type == "AI_Waiting":
+            self.set_label("AI processing...")
+        else:
+            self.set_label("")
+        
+        self.update()
 
     def start_animation(self):
         """Starts the ripple animation loop."""
@@ -102,6 +136,24 @@ class MicRippleWidget(QWidget):
         current_icon = self._get_current_icon()
         icon_x, icon_y = center_x - icon_size // 2, center_y - icon_size // 2
         current_icon.paint(painter, icon_x, icon_y, icon_size, icon_size)
+
+        # 3. Draw Label
+        if self.label_text:
+            font = self.font()
+            font.setPointSize(12)
+            painter.setFont(font)
+            
+            # Text color should be subtle
+            text_color = QColor("#8A8A8E")
+            painter.setPen(QPen(text_color))
+            
+            # Calculate text position to be centered below the icon
+            metrics = painter.fontMetrics()
+            text_width = metrics.horizontalAdvance(self.label_text)
+            text_x = center_x - text_width // 2
+            text_y = center_y + (icon_size // 2) + 20 # Position below the icon
+            
+            painter.drawText(text_x, text_y, self.label_text)
 
     def sizeHint(self) -> QSize:
         """Provides a sensible default size for the widget."""

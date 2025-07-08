@@ -47,9 +47,9 @@ Transcript:
 "{transcript.strip()}"
 """.strip()
 
-def is_known_book(book: str) -> bool:
-    """Checks if a book exists in the canonical list."""
-    return book in BOOK_TO_NUM_CHAPTERS
+def is_known_book(book_name: str) -> bool:
+    """Check if the book is a known, canonical book."""
+    return book_name in BOOK_TO_NUM_CHAPTERS
 
 def is_valid_reference(book: str, chapter: int) -> bool:
     """Checks if a book and chapter exist in the canonical list."""
@@ -58,14 +58,16 @@ def is_valid_reference(book: str, chapter: int) -> bool:
         return False
     return True
 
-def validate_with_gemini(transcript: str, context: str = "", last_book: str = "", last_chapter: int = 0) -> List[VerseCandidate]:
-    if not GEMINI_API_KEY:
-        print("[SlowValidator] Error: GEMINI_API_KEY not found in .env file.")
+def validate_with_gemini(transcript: str, api_key: str, model_id: str, context: str = "", last_book: str = "", last_chapter: int = 0) -> List[VerseCandidate]:
+    if not api_key:
+        logging.error("[SlowValidator] Error: Gemini API key was not provided.")
         return []
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_id}:generateContent"
 
     headers = {
         "Content-Type": "application/json",
-        "x-goog-api-key": GEMINI_API_KEY,
+        "x-goog-api-key": api_key,
     }
 
     payload = {
@@ -79,10 +81,10 @@ def validate_with_gemini(transcript: str, context: str = "", last_book: str = ""
         }
     }
 
-    response = requests.post(GEMINI_URL, headers=headers, json=payload)
+    response = requests.post(url, headers=headers, json=payload)
 
     if response.status_code != 200:
-        print(f"[SlowValidator] Error: {response.status_code} – {response.text}")
+        logging.error(f"[SlowValidator] Error: {response.status_code} – {response.text}")
         return []
 
     try:
