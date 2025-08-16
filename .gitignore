@@ -1,0 +1,9 @@
+backups/
+TEST RECORDINGS/
+*.wav
+*.mp3
+*.zip
+*.tar.gz
+.venv/
+node_modules/
+frontend/node_modules/
