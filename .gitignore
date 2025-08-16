@@ -7,3 +7,5 @@ TEST RECORDINGS/
 .venv/
 node_modules/
 frontend/node_modules/
+archives/
+.DS_Store
